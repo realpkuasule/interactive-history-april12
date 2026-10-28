@@ -1,0 +1,4 @@
+@font-face{font-family:HistoryHeading0;src:url(fonts/558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4.ttf);font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:HistoryBody0;src:url(fonts/893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c.ttf);font-weight:400;font-style:normal;font-display:block}
+:root{--history-heading:HistoryHeading0;--history-body:HistoryBody0}
+html body,button,input,select,textarea{font-family:var(--history-body)!important;font-weight:400!important;font-synthesis:none!important}h1,h2,.hero-heading h1,.contents h2{font-family:var(--history-heading)!important;font-weight:400!important;font-synthesis:none!important}h3,strong,b,.chapter-link strong,.site-name{font-family:var(--history-body)!important;font-weight:400!important;font-synthesis:none!important}

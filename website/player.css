@@ -1,0 +1,11 @@
+/* Web wrapper styling, never applied inside the native composition. */
+html,body{margin:0!important;padding:0!important;background:transparent!important;overflow:hidden;color:#e8eff3;font-family:system-ui,sans-serif}
+main{padding:0!important;margin:0!important;width:100%!important;max-width:none!important}
+main>*:not(.viewport):not(.toolbar):not(.subtitleBand):not(#error){display:none!important}
+.viewport{width:100%!important;min-width:0!important;margin:0!important;border:0!important;border-radius:0!important;box-shadow:none!important}
+.toolbar{max-width:none!important;margin:0!important;padding:12px 16px!important;min-height:64px;background:#173346;border:0!important;gap:10px!important;color:#eef4f7!important;font-size:13px!important}
+.toolbar label{display:none!important}.toolbar button{background:#25475c!important;border:1px solid #6d8999!important;color:#fff!important;border-radius:3px!important;padding:8px 13px!important;font:inherit!important}
+.toolbar input{min-width:100px!important;accent-color:#d5c598!important}.toolbar output{min-width:130px!important;color:#eef4f7!important}.toolbar button:focus-visible{outline:3px solid #f1cf86!important}
+#error:not([hidden]){margin:0!important;background:#61372c;color:#fff!important;padding:12px!important}
+.subtitleBand{margin:0!important;min-height:80px!important;padding:10px 100px 10px 18px!important}.subtitleBand #subtitleText{font-size:22px!important;line-height:1.5!important}
+@media(max-width:600px){.toolbar{padding:10px!important;gap:8px!important;min-height:102px}.toolbar input{flex-basis:55%!important}.toolbar output{font-size:11px!important;min-width:110px!important}.toolbar button{padding:7px 9px!important}.subtitleBand{min-height:110px!important;padding:10px 14px!important}.subtitleBand #subtitleText{font-size:17px!important}}

@@ -1,0 +1,3158 @@
+{
+  "output": {
+    "fps": 30
+  },
+  "audioTracks": [
+    {
+      "id": "opening-question",
+      "assetId": "opening-question",
+      "startFrame": 0,
+      "durationFrames": 697,
+      "playbackRate": 1
+    },
+    {
+      "id": "cooperation-two-identities",
+      "assetId": "cooperation-two-identities",
+      "startFrame": 715,
+      "durationFrames": 759,
+      "playbackRate": 1
+    },
+    {
+      "id": "northern-expedition-tensions",
+      "assetId": "northern-expedition-tensions",
+      "startFrame": 1492,
+      "durationFrames": 918,
+      "playbackRate": 1
+    },
+    {
+      "id": "order-before-victory",
+      "assetId": "order-before-victory",
+      "startFrame": 2428,
+      "durationFrames": 485,
+      "playbackRate": 1
+    },
+    {
+      "id": "uprising-victory",
+      "assetId": "uprising-victory",
+      "startFrame": 2931,
+      "durationFrames": 625,
+      "playbackRate": 1
+    },
+    {
+      "id": "guild-then-and-now",
+      "assetId": "guild-then-and-now",
+      "startFrame": 3574,
+      "durationFrames": 554,
+      "playbackRate": 1
+    },
+    {
+      "id": "city-competing-authority",
+      "assetId": "city-competing-authority",
+      "startFrame": 4146,
+      "durationFrames": 758,
+      "playbackRate": 1
+    },
+    {
+      "id": "a-promise-of-cooperation",
+      "assetId": "a-promise-of-cooperation",
+      "startFrame": 4922,
+      "durationFrames": 551,
+      "playbackRate": 1
+    },
+    {
+      "id": "the-night-before",
+      "assetId": "the-night-before",
+      "startFrame": 5491,
+      "durationFrames": 402,
+      "playbackRate": 1
+    },
+    {
+      "id": "the-attack-begins",
+      "assetId": "the-attack-begins",
+      "startFrame": 5911,
+      "durationFrames": 312,
+      "playbackRate": 1
+    },
+    {
+      "id": "disarmament",
+      "assetId": "disarmament",
+      "startFrame": 6241,
+      "durationFrames": 592,
+      "playbackRate": 1
+    },
+    {
+      "id": "april-thirteen",
+      "assetId": "april-thirteen",
+      "startFrame": 6851,
+      "durationFrames": 565,
+      "playbackRate": 1
+    },
+    {
+      "id": "what-was-lost",
+      "assetId": "what-was-lost",
+      "startFrame": 7434,
+      "durationFrames": 504,
+      "playbackRate": 1
+    },
+    {
+      "id": "purge-beyond-membership",
+      "assetId": "purge-beyond-membership",
+      "startFrame": 7956,
+      "durationFrames": 747,
+      "playbackRate": 1
+    },
+    {
+      "id": "casualty-counts",
+      "assetId": "casualty-counts",
+      "startFrame": 8721,
+      "durationFrames": 785,
+      "playbackRate": 1
+    },
+    {
+      "id": "casualty-limits",
+      "assetId": "casualty-limits",
+      "startFrame": 9524,
+      "durationFrames": 776,
+      "playbackRate": 1
+    },
+    {
+      "id": "nanjing-government",
+      "assetId": "nanjing-government",
+      "startFrame": 10318,
+      "durationFrames": 846,
+      "playbackRate": 1
+    },
+    {
+      "id": "wuhan-continuing-cooperation",
+      "assetId": "wuhan-continuing-cooperation",
+      "startFrame": 11182,
+      "durationFrames": 712,
+      "playbackRate": 1
+    },
+    {
+      "id": "july-break",
+      "assetId": "july-break",
+      "startFrame": 11912,
+      "durationFrames": 860,
+      "playbackRate": 1
+    },
+    {
+      "id": "armed-resistance-turn",
+      "assetId": "armed-resistance-turn",
+      "startFrame": 12790,
+      "durationFrames": 742,
+      "playbackRate": 1
+    },
+    {
+      "id": "responsibility-and-response",
+      "assetId": "responsibility-and-response",
+      "startFrame": 13550,
+      "durationFrames": 727,
+      "playbackRate": 1
+    },
+    {
+      "id": "historical-conclusion",
+      "assetId": "historical-conclusion",
+      "startFrame": 14295,
+      "durationFrames": 926,
+      "playbackRate": 1
+    }
+  ],
+  "assets": [
+    {
+      "id": "opening-question",
+      "file": {
+        "path": "audio/opening-question.mp3",
+        "sha256": "4a68e1b1cfd255bc2520ecb1f969bb6795194ea703cb6eebd5353a151640ae99"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "cooperation-two-identities",
+      "file": {
+        "path": "audio/cooperation-two-identities.mp3",
+        "sha256": "ff34a460365ef414f29f2935a385a450fff99e1991174226f3fcb3f2315cebea"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "northern-expedition-tensions",
+      "file": {
+        "path": "audio/northern-expedition-tensions.mp3",
+        "sha256": "768772baf01c0342cfa7cc3c1766ac228db7c928521141d0de9a6ebfcbacbbe3"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "order-before-victory",
+      "file": {
+        "path": "audio/order-before-victory.mp3",
+        "sha256": "12716edd8c46f3e9bc983e6151bc2a835db8a421baa8882f1b04022b30f0beac"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "uprising-victory",
+      "file": {
+        "path": "audio/uprising-victory.mp3",
+        "sha256": "87dc9ad0724f8310f75ad59eeb680d4a5a6b4b22e25ef2a50b05f9e641ae2924"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "guild-then-and-now",
+      "file": {
+        "path": "audio/guild-then-and-now.mp3",
+        "sha256": "ca16e723d7ad84beba8602b3eb5982e18a5f188d14ec655016a018983aa454ab"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "city-competing-authority",
+      "file": {
+        "path": "audio/city-competing-authority.mp3",
+        "sha256": "bf1da0b98c06ef5e883c97b8aafc8fc1c0222f13bc1667b0ef6ec32152ffb37a"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "a-promise-of-cooperation",
+      "file": {
+        "path": "audio/a-promise-of-cooperation.mp3",
+        "sha256": "339b8b71e0dc65131c0608d6925f6881146b6db8c3a951a3d5e899c858c668eb"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "the-night-before",
+      "file": {
+        "path": "audio/the-night-before.mp3",
+        "sha256": "68d074870da0a258c83c6adf361cafe3c7e0ed1e17aab895e7825bb35d4c4d69"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "the-attack-begins",
+      "file": {
+        "path": "audio/the-attack-begins.mp3",
+        "sha256": "1fed51eeef5401e285ea4e96b71b2ffd1d1a9e1bcab987db1541ec255f16cb7f"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "disarmament",
+      "file": {
+        "path": "audio/disarmament.mp3",
+        "sha256": "70b8b892e3d0a49a76617a8512a8cfb129152f8d2b38288d0b27ac5eac08a676"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "april-thirteen",
+      "file": {
+        "path": "audio/april-thirteen.mp3",
+        "sha256": "adf23a7370829ff2137f23b244545a8bbd1d20ef0775224fc89de372220aa726"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "what-was-lost",
+      "file": {
+        "path": "audio/what-was-lost.mp3",
+        "sha256": "5b4a57a063e5abd8b3c87801a85871d1ea907748ff5ce46a0df43c52dedeb7ee"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "purge-beyond-membership",
+      "file": {
+        "path": "audio/purge-beyond-membership.mp3",
+        "sha256": "5a62fd61da839ad40c4405b76a2bf27b09e5c3922b3c6aeb7de5fd41750e688a"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "casualty-counts",
+      "file": {
+        "path": "audio/casualty-counts.mp3",
+        "sha256": "65013b02f6a69fe9bb145fc31dbc30ba032e8a699aa14bdee12933fad5f1908a"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "casualty-limits",
+      "file": {
+        "path": "audio/casualty-limits.mp3",
+        "sha256": "cd7894c58ca58337503a50a167e3e9c394b672a645e59e127c52fbff13561dc7"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "nanjing-government",
+      "file": {
+        "path": "audio/nanjing-government.mp3",
+        "sha256": "4da16c4aa87e9060033e25d576f47ce3b86e73c2598a53e860297aecb7f3b6c7"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "wuhan-continuing-cooperation",
+      "file": {
+        "path": "audio/wuhan-continuing-cooperation.mp3",
+        "sha256": "38d9ee0a44d3a730ae602304438f9853621d6a9fb4d414e081ed7768cfbc2347"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "july-break",
+      "file": {
+        "path": "audio/july-break.mp3",
+        "sha256": "3633f8bb2edc5debdbfb685bb6c58e7513d183ddbe5fdb947c886d0421de51d5"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "armed-resistance-turn",
+      "file": {
+        "path": "audio/armed-resistance-turn.mp3",
+        "sha256": "7db1907b3431c35fb1962acd706ea937ce13f2f44c6201f26e9f5d5325fcf604"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "responsibility-and-response",
+      "file": {
+        "path": "audio/responsibility-and-response.mp3",
+        "sha256": "59b45529b47e8ac96af64241eaeff62caadbc9002737675383ff0848847939b1"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "historical-conclusion",
+      "file": {
+        "path": "audio/historical-conclusion.mp3",
+        "sha256": "ecd9c61eb5616a739c8f465bdddda76b859c232935e9dd977f0d84f52f1c00b3"
+      },
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "background-music",
+      "file": {
+        "path": "audio/background-music.flac",
+        "sha256": "a717e5c1c13754faa5bd2897d9f2f64a830a091f1b267aae1cc211947cc9a045"
+      },
+      "provenance": {
+        "source": "FFmpeg from locked local audio",
+        "license": "来源与授权见公共混音回执及原始资产记录"
+      }
+    },
+    {
+      "id": "background-sfx",
+      "file": {
+        "path": "audio/background-sfx.flac",
+        "sha256": "6cbc9d26b22bcc2fe52ca69b4dd057f9655e6b7a370e14b2df8dd205c30096f0"
+      },
+      "provenance": {
+        "source": "FFmpeg from locked local audio",
+        "license": "来源与授权见公共混音回执及原始资产记录"
+      }
+    }
+  ],
+  "captions": {
+    "opening-question": [
+      {
+        "text": "1927年春天",
+        "startMs": 240,
+        "endMs": 1380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "北伐军正向前推进",
+        "startMs": 1760,
+        "endMs": 3220,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "上海工人经过第三次武装起义",
+        "startMs": 4020,
+        "endMs": 6160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "打败了军阀部队",
+        "startMs": 6500,
+        "endMs": 7500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "可是",
+        "startMs": 8020,
+        "endMs": 8360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "仅仅几个星期后",
+        "startMs": 8740,
+        "endMs": 9880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "工人纠察队就被缴械",
+        "startMs": 10180,
+        "endMs": 11600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "工会遭到镇压",
+        "startMs": 12060,
+        "endMs": 13280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "原本共同参加国民革命的力量",
+        "startMs": 13800,
+        "endMs": 16060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "为什么走到了",
+        "startMs": 16300,
+        "endMs": 17060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "这一步",
+        "startMs": 17060,
+        "endMs": 17560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "要看清四一二",
+        "startMs": 18140,
+        "endMs": 19200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "我们得先回到",
+        "startMs": 19700,
+        "endMs": 20620,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "这场合作是怎样建立的",
+        "startMs": 21020,
+        "endMs": 22900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      }
+    ],
+    "cooperation-two-identities": [
+      {
+        "text": "1924年",
+        "startMs": 300,
+        "endMs": 1060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "国民党第一次全国代表大会推动国共合作正式形成",
+        "startMs": 1360,
+        "endMs": 4920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "共产党员以个人身份加入国民党",
+        "startMs": 5360,
+        "endMs": 7520,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "同时保留共产党的",
+        "startMs": 7820,
+        "endMs": 8920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "组织",
+        "startMs": 8920,
+        "endMs": 9300,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "于是",
+        "startMs": 9780,
+        "endMs": 10140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "一个人可能兼有两党党员身份",
+        "startMs": 10420,
+        "endMs": 12380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "双方需要共同动员群众",
+        "startMs": 12860,
+        "endMs": 14560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "建立军队",
+        "startMs": 14940,
+        "endMs": 15560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "完成反军阀的",
+        "startMs": 16300,
+        "endMs": 17220,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "任务",
+        "startMs": 17220,
+        "endMs": 17520,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "可是",
+        "startMs": 18040,
+        "endMs": 18480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "这份合作没有解决一个根本问题",
+        "startMs": 19100,
+        "endMs": 21160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "将来的",
+        "startMs": 22080,
+        "endMs": 22500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "军队和政府",
+        "startMs": 22500,
+        "endMs": 23360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "究竟由谁领导",
+        "startMs": 23920,
+        "endMs": 24960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16"
+        ]
+      }
+    ],
+    "northern-expedition-tensions": [
+      {
+        "text": "1926年",
+        "startMs": 240,
+        "endMs": 1040,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "中山舰事件和整理党务案已经显露出蒋介石与共产党之间的",
+        "startMs": 1460,
+        "endMs": 6920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "紧张",
+        "startMs": 6920,
+        "endMs": 7320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "7月",
+        "startMs": 7840,
+        "endMs": 8260,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "北伐开始",
+        "startMs": 8540,
+        "endMs": 9260,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "军队推进",
+        "startMs": 9620,
+        "endMs": 10280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "工农运动也在发展",
+        "startMs": 10680,
+        "endMs": 11960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "双方互相支持",
+        "startMs": 12380,
+        "endMs": 13600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "指挥体系却不相同",
+        "startMs": 14120,
+        "endMs": 15460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "越接近大城市",
+        "startMs": 16000,
+        "endMs": 17180,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "分歧就越具体",
+        "startMs": 17580,
+        "endMs": 18720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "谁接管地方政府",
+        "startMs": 19320,
+        "endMs": 20520,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "工会还能不能罢工",
+        "startMs": 21220,
+        "endMs": 22440,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "工人能不能保有自己的",
+        "startMs": 23040,
+        "endMs": 24380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "武装",
+        "startMs": 24380,
+        "endMs": 24780,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "这些问题",
+        "startMs": 25300,
+        "endMs": 26020,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16"
+        ]
+      },
+      {
+        "text": "逐渐从合作内部的",
+        "startMs": 26580,
+        "endMs": 27800,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c17"
+        ]
+      },
+      {
+        "text": "争论",
+        "startMs": 27800,
+        "endMs": 28220,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18"
+        ]
+      },
+      {
+        "text": "变成了实际的",
+        "startMs": 28700,
+        "endMs": 29620,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c19"
+        ]
+      },
+      {
+        "text": "权力冲突",
+        "startMs": 29620,
+        "endMs": 30280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c20"
+        ]
+      }
+    ],
+    "order-before-victory": [
+      {
+        "text": "4月12日前",
+        "startMs": 260,
+        "endMs": 1300,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "上海工人已经走过一段艰难的",
+        "startMs": 1640,
+        "endMs": 3580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "路",
+        "startMs": 3580,
+        "endMs": 3760,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "这份总同盟罢工令发于1927年2月19日",
+        "startMs": 4400,
+        "endMs": 8840,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "那时第二次武装起义还在准备",
+        "startMs": 9260,
+        "endMs": 12120,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "他们要用罢工和起义",
+        "startMs": 12620,
+        "endMs": 14140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "配合北伐军进城",
+        "startMs": 14640,
+        "endMs": 15940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      }
+    ],
+    "uprising-victory": [
+      {
+        "text": "一个月后",
+        "startMs": 180,
+        "endMs": 940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "第三次起义终于获胜",
+        "startMs": 1100,
+        "endMs": 2500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "3月21日发动",
+        "startMs": 3500,
+        "endMs": 4640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "22日军阀部队被击败",
+        "startMs": 5180,
+        "endMs": 7200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "周恩来负责军事指挥",
+        "startMs": 8020,
+        "endMs": 9420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "工人纠察队成为重要力量",
+        "startMs": 9880,
+        "endMs": 11420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "但起义控制的",
+        "startMs": 11880,
+        "endMs": 12740,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "范围并不包括外国租界",
+        "startMs": 12740,
+        "endMs": 14780,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "胜利以后",
+        "startMs": 15260,
+        "endMs": 16060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "新的",
+        "startMs": 16380,
+        "endMs": 16660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "问题出现了",
+        "startMs": 16660,
+        "endMs": 17360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "武装和地方权力由谁掌握",
+        "startMs": 18240,
+        "endMs": 20460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      }
+    ],
+    "guild-then-and-now": [
+      {
+        "text": "起义后",
+        "startMs": 200,
+        "endMs": 880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "湖州会馆成了上海总工会的",
+        "startMs": 1220,
+        "endMs": 3240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "总会所",
+        "startMs": 3240,
+        "endMs": 3840,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "左边的",
+        "startMs": 4280,
+        "endMs": 4720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "旧照留下了1927年3月的",
+        "startMs": 4720,
+        "endMs": 7260,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "工人武装",
+        "startMs": 7260,
+        "endMs": 7920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "右边是2021年报道中的",
+        "startMs": 8360,
+        "endMs": 10840,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "遗址纪念场馆门头",
+        "startMs": 10840,
+        "endMs": 12800,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "原建筑大部分毁于1932年战火",
+        "startMs": 13440,
+        "endMs": 15960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "右图牌楼是后来复建的",
+        "startMs": 16320,
+        "endMs": 18240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      }
+    ],
+    "city-competing-authority": [
+      {
+        "text": "与此同时",
+        "startMs": 220,
+        "endMs": 920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "军队",
+        "startMs": 1460,
+        "endMs": 2000,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "总工会和临时市政府都在上海活动",
+        "startMs": 2260,
+        "endMs": 5240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "它们声称属于同一个革命阵营",
+        "startMs": 6300,
+        "endMs": 8200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "却没有形成稳定的",
+        "startMs": 8720,
+        "endMs": 9820,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "共同指挥",
+        "startMs": 9820,
+        "endMs": 10460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "蒋介石方面调整驻沪部队",
+        "startMs": 10900,
+        "endMs": 12680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "共产党则试图争取军队支持",
+        "startMs": 13160,
+        "endMs": 15800,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "保存工人武装",
+        "startMs": 16040,
+        "endMs": 16980,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "最后真正起作用的",
+        "startMs": 17420,
+        "endMs": 18720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "是哪一支部队听谁的",
+        "startMs": 19160,
+        "endMs": 20380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "命令",
+        "startMs": 20380,
+        "endMs": 20700,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "公开的",
+        "startMs": 21220,
+        "endMs": 21640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "团结口号",
+        "startMs": 21640,
+        "endMs": 22360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "已经越来越难以掩盖这个分歧",
+        "startMs": 23200,
+        "endMs": 25000,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      }
+    ],
+    "a-promise-of-cooperation": [
+      {
+        "text": "这时",
+        "startMs": 140,
+        "endMs": 580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "国共合作还没有完全破裂",
+        "startMs": 1240,
+        "endMs": 2920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "4月5日",
+        "startMs": 3440,
+        "endMs": 4080,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "汪精卫和陈独秀发表联合宣言",
+        "startMs": 4540,
+        "endMs": 6880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "仍希望用协商消除冲突",
+        "startMs": 7360,
+        "endMs": 9400,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "宣言给出了不会驱逐共产党",
+        "startMs": 10320,
+        "endMs": 12320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "摧残工会的",
+        "startMs": 12680,
+        "endMs": 13480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "承诺",
+        "startMs": 13480,
+        "endMs": 13860,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "但公开承诺",
+        "startMs": 14400,
+        "endMs": 15280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "终究没能约束掌握军队的",
+        "startMs": 16060,
+        "endMs": 17720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "一方",
+        "startMs": 17720,
+        "endMs": 18060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      }
+    ],
+    "the-night-before": [
+      {
+        "text": "几天后",
+        "startMs": 180,
+        "endMs": 740,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "局势骤然收紧",
+        "startMs": 1160,
+        "endMs": 2320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "4月11日夜",
+        "startMs": 2720,
+        "endMs": 3680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "上海总工会委员长汪寿华应邀前往杜月笙处",
+        "startMs": 4160,
+        "endMs": 7820,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "随后遇害",
+        "startMs": 8180,
+        "endMs": 8840,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "针对工人组织的",
+        "startMs": 9460,
+        "endMs": 10500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "打击已经先落在了领导者身上",
+        "startMs": 10500,
+        "endMs": 13160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      }
+    ],
+    "the-attack-begins": [
+      {
+        "text": "第二天凌晨",
+        "startMs": 200,
+        "endMs": 900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "袭击开始了",
+        "startMs": 1260,
+        "endMs": 2000,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "帮会武装向工人纠察队发动进攻",
+        "startMs": 2840,
+        "endMs": 5460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "紧接着",
+        "startMs": 6000,
+        "endMs": 6480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "国民党军队出面",
+        "startMs": 7160,
+        "endMs": 8180,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "以调解冲突为名介入",
+        "startMs": 8700,
+        "endMs": 10120,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      }
+    ],
+    "disarmament": [
+      {
+        "text": "军队带来的",
+        "startMs": 180,
+        "endMs": 1060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "却不是让双方停下来的",
+        "startMs": 1380,
+        "endMs": 2900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "调解",
+        "startMs": 2900,
+        "endMs": 3340,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "工人纠察队被迫交出武器",
+        "startMs": 4300,
+        "endMs": 6140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "工会机关遭到占领",
+        "startMs": 6680,
+        "endMs": 7940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "人员被搜捕",
+        "startMs": 8380,
+        "endMs": 9240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "蒋介石发动的",
+        "startMs": 10160,
+        "endMs": 11160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "清党就",
+        "startMs": 11160,
+        "endMs": 12260,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "这样改写了上海的",
+        "startMs": 12260,
+        "endMs": 13500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "力量对比",
+        "startMs": 13820,
+        "endMs": 14400,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "失去武装以后",
+        "startMs": 14900,
+        "endMs": 16060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "工人组织再要保护自己",
+        "startMs": 16460,
+        "endMs": 18020,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "已经更加困难",
+        "startMs": 18520,
+        "endMs": 19420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      }
+    ],
+    "april-thirteen": [
+      {
+        "text": "4月13日",
+        "startMs": 160,
+        "endMs": 1100,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "工人仍然罢工",
+        "startMs": 1540,
+        "endMs": 2480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "群众仍然走上街头",
+        "startMs": 3080,
+        "endMs": 4460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "他们要求释放被捕者",
+        "startMs": 5400,
+        "endMs": 6720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "归还武器",
+        "startMs": 6980,
+        "endMs": 7720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "游行队伍来到宝山路一带",
+        "startMs": 8640,
+        "endMs": 10280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "遭到军队开枪",
+        "startMs": 10720,
+        "endMs": 11700,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "前一天是缴械",
+        "startMs": 12680,
+        "endMs": 13680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "这一天抗议又遭到镇压",
+        "startMs": 14120,
+        "endMs": 16160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "暴力并没有随着一个清晨结束",
+        "startMs": 16660,
+        "endMs": 18600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      }
+    ],
+    "what-was-lost": [
+      {
+        "text": "所以",
+        "startMs": 160,
+        "endMs": 580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "四一二不只是两党领袖关系的",
+        "startMs": 1080,
+        "endMs": 3100,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "改变",
+        "startMs": 3100,
+        "endMs": 3440,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "它首先改变了工人能否组织",
+        "startMs": 4040,
+        "endMs": 5900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "能否自卫",
+        "startMs": 6260,
+        "endMs": 6920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "以及能否安全表达诉求",
+        "startMs": 7360,
+        "endMs": 9240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "工人纠察队被缴械之后",
+        "startMs": 9640,
+        "endMs": 11340,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "原本依靠罢工和集会争取结果的",
+        "startMs": 11640,
+        "endMs": 14060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "办法",
+        "startMs": 14060,
+        "endMs": 14420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "也失去了基本的",
+        "startMs": 15020,
+        "endMs": 15920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "安全保障",
+        "startMs": 15920,
+        "endMs": 16480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      }
+    ],
+    "purge-beyond-membership": [
+      {
+        "text": "接下来的",
+        "startMs": 160,
+        "endMs": 740,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "行动被称作清党",
+        "startMs": 740,
+        "endMs": 2380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "但它并不只是清理党员名单",
+        "startMs": 3380,
+        "endMs": 5620,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "收缴武器",
+        "startMs": 6240,
+        "endMs": 7040,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "解散组织",
+        "startMs": 7460,
+        "endMs": 8280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "拘捕和杀害",
+        "startMs": 8640,
+        "endMs": 9560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "波及共产党人",
+        "startMs": 9960,
+        "endMs": 10900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "也波及工运参与者和其他被认定的",
+        "startMs": 11520,
+        "endMs": 14580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "左派",
+        "startMs": 14580,
+        "endMs": 14960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "镇压还扩展到东南",
+        "startMs": 15480,
+        "endMs": 16960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "华南多地",
+        "startMs": 17340,
+        "endMs": 18040,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "各地发生的",
+        "startMs": 18520,
+        "endMs": 19200,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "时间和执行者并不相同",
+        "startMs": 19200,
+        "endMs": 20960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "不能把所有损失都归到上海十二日的",
+        "startMs": 21840,
+        "endMs": 24000,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "一个清晨",
+        "startMs": 24000,
+        "endMs": 24580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      }
+    ],
+    "casualty-counts": [
+      {
+        "text": "那么",
+        "startMs": 200,
+        "endMs": 660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "究竟有多少人遇害",
+        "startMs": 1300,
+        "endMs": 2420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "先要分清数字在统计什么",
+        "startMs": 3360,
+        "endMs": 4960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "南京党史网将十二日记为工人死伤300余人",
+        "startMs": 5860,
+        "endMs": 9160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "十三日记为死伤数百人",
+        "startMs": 9920,
+        "endMs": 11920,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "这里说的",
+        "startMs": 12380,
+        "endMs": 12880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "是死伤",
+        "startMs": 12880,
+        "endMs": 13480,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "不能全部改写成死亡",
+        "startMs": 14100,
+        "endMs": 15440,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "而剑桥中国史",
+        "startMs": 15940,
+        "endMs": 16940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "这一章的",
+        "startMs": 16940,
+        "endMs": 17420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "公开摘要",
+        "startMs": 17420,
+        "endMs": 18180,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "把当天和随后一个月放在一起",
+        "startMs": 18620,
+        "endMs": 20520,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "估计有数千人被杀",
+        "startMs": 20920,
+        "endMs": 22140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "它的",
+        "startMs": 23060,
+        "endMs": 23280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "时间范围更长",
+        "startMs": 23280,
+        "endMs": 24320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "统计对象也不同",
+        "startMs": 24800,
+        "endMs": 25880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16"
+        ]
+      }
+    ],
+    "casualty-limits": [
+      {
+        "text": "我们没有读到能够独立复算的",
+        "startMs": 200,
+        "endMs": 2120,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "完整名单和统计表",
+        "startMs": 2120,
+        "endMs": 3680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "也没有读到剑桥",
+        "startMs": 4220,
+        "endMs": 5240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "这一章的",
+        "startMs": 5240,
+        "endMs": 5760,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "完整注释",
+        "startMs": 5760,
+        "endMs": 6580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "所以",
+        "startMs": 7460,
+        "endMs": 7820,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "这里确认大规模暴力和伤亡的",
+        "startMs": 8460,
+        "endMs": 10380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "发生",
+        "startMs": 10380,
+        "endMs": 10820,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "不给出一个看似精确的",
+        "startMs": 11260,
+        "endMs": 12960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "当天死亡总数",
+        "startMs": 13260,
+        "endMs": 14380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "要比较不同估计",
+        "startMs": 14820,
+        "endMs": 16060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "必须同时看地区",
+        "startMs": 16420,
+        "endMs": 17580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "日期以及统计的",
+        "startMs": 17940,
+        "endMs": 19500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "是死亡",
+        "startMs": 19500,
+        "endMs": 20080,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "死伤还是失踪",
+        "startMs": 20440,
+        "endMs": 21860,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "数字之间的",
+        "startMs": 22860,
+        "endMs": 23600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16"
+        ]
+      },
+      {
+        "text": "差别本身也需要解释",
+        "startMs": 23600,
+        "endMs": 25560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c17"
+        ]
+      }
+    ],
+    "nanjing-government": [
+      {
+        "text": "上海的",
+        "startMs": 160,
+        "endMs": 620,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "镇压之后",
+        "startMs": 620,
+        "endMs": 1380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "4月18日",
+        "startMs": 1640,
+        "endMs": 2380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "南京国民政府成立",
+        "startMs": 2980,
+        "endMs": 4260,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "与武汉国民政府相对立",
+        "startMs": 4820,
+        "endMs": 6420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "这就是宁汉分裂的",
+        "startMs": 7040,
+        "endMs": 8180,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "重要局面",
+        "startMs": 8180,
+        "endMs": 8800,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "宁是南京",
+        "startMs": 9420,
+        "endMs": 10660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "汉是武汉",
+        "startMs": 11220,
+        "endMs": 12660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "不过",
+        "startMs": 13160,
+        "endMs": 13680,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "这不是南京属于国民党",
+        "startMs": 14140,
+        "endMs": 15660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "武汉属于共产党的",
+        "startMs": 16180,
+        "endMs": 17360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "简单划分",
+        "startMs": 17360,
+        "endMs": 18020,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "武汉仍由国民党方面主持",
+        "startMs": 18480,
+        "endMs": 20300,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "也仍与共产党合作",
+        "startMs": 20720,
+        "endMs": 22000,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "北洋北京政府同样存在",
+        "startMs": 22860,
+        "endMs": 24600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16"
+        ]
+      },
+      {
+        "text": "南京更没有在成立当天就控制全国",
+        "startMs": 25180,
+        "endMs": 27860,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c17"
+        ]
+      }
+    ],
+    "wuhan-continuing-cooperation": [
+      {
+        "text": "因此",
+        "startMs": 220,
+        "endMs": 660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "四月的",
+        "startMs": 1100,
+        "endMs": 1540,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "上海决裂还不能直接等同于整个合作关系已经全面结束",
+        "startMs": 1540,
+        "endMs": 6520,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "共产党在武汉继续活动",
+        "startMs": 7200,
+        "endMs": 8940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "也继续争取合作",
+        "startMs": 9460,
+        "endMs": 10660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "但武汉阵营内部",
+        "startMs": 11080,
+        "endMs": 12380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "工农运动",
+        "startMs": 12640,
+        "endMs": 13360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "军政力量和党派关系同样紧张",
+        "startMs": 13640,
+        "endMs": 15900,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "上海发生的",
+        "startMs": 16340,
+        "endMs": 17160,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "事已经暴露出",
+        "startMs": 17160,
+        "endMs": 18580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "这套合作安排的",
+        "startMs": 18580,
+        "endMs": 19500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "危险",
+        "startMs": 19500,
+        "endMs": 19880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "武汉并没有成为永久可靠的",
+        "startMs": 20760,
+        "endMs": 23040,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "保护",
+        "startMs": 23040,
+        "endMs": 23420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      }
+    ],
+    "july-break": [
+      {
+        "text": "到了7月13日",
+        "startMs": 200,
+        "endMs": 1320,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "中共中央发表宣言",
+        "startMs": 1640,
+        "endMs": 3000,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "决定撤回参加国民政府的",
+        "startMs": 3700,
+        "endMs": 5380,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "共产党员",
+        "startMs": 5380,
+        "endMs": 6100,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "同时仍愿与国民党内革命分子合作",
+        "startMs": 6560,
+        "endMs": 9460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "两天后",
+        "startMs": 9920,
+        "endMs": 10640,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "7月15日",
+        "startMs": 10960,
+        "endMs": 11700,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "汪精卫主持国民党中央常委会扩大会议",
+        "startMs": 12460,
+        "endMs": 15180,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "正式与共产党决裂",
+        "startMs": 15920,
+        "endMs": 17240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "中共党史把这个节点视为第一次国共合作全面破裂的",
+        "startMs": 17740,
+        "endMs": 21740,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "标志",
+        "startMs": 21740,
+        "endMs": 22140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "从上海到武汉",
+        "startMs": 23080,
+        "endMs": 24240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "相隔三个月",
+        "startMs": 24560,
+        "endMs": 25420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "合作是在",
+        "startMs": 26000,
+        "endMs": 26620,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "这一连串选择中瓦解的",
+        "startMs": 26620,
+        "endMs": 28340,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      }
+    ],
+    "armed-resistance-turn": [
+      {
+        "text": "失去公开合作的",
+        "startMs": 140,
+        "endMs": 1240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "空间之后",
+        "startMs": 1240,
+        "endMs": 2000,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "共产党开始调整斗争方式",
+        "startMs": 2220,
+        "endMs": 4140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "8月1日",
+        "startMs": 4680,
+        "endMs": 5300,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "南昌起义发动",
+        "startMs": 5740,
+        "endMs": 6840,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "8月7日",
+        "startMs": 7280,
+        "endMs": 7960,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "中共中央在汉口召开紧急会议",
+        "startMs": 8320,
+        "endMs": 10360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "确立土地革命和武装反抗国民党统治的",
+        "startMs": 11140,
+        "endMs": 14180,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "方针",
+        "startMs": 14180,
+        "endMs": 14560,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "这与四一二有着历史联系",
+        "startMs": 15020,
+        "endMs": 16720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "但并不是十二日当天就自动产生的",
+        "startMs": 17200,
+        "endMs": 19620,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "结果",
+        "startMs": 19620,
+        "endMs": 19980,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "组织需要重新集结",
+        "startMs": 20540,
+        "endMs": 21760,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "战略也经历了争论和挫折",
+        "startMs": 22520,
+        "endMs": 24460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      }
+    ],
+    "responsibility-and-response": [
+      {
+        "text": "回头看",
+        "startMs": 180,
+        "endMs": 660,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "这场危机",
+        "startMs": 660,
+        "endMs": 1360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "行动责任和应对得失必须分别讨论",
+        "startMs": 1860,
+        "endMs": 4820,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "发动和执行袭击",
+        "startMs": 5620,
+        "endMs": 6940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "缴械",
+        "startMs": 7220,
+        "endMs": 7700,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "捕杀的",
+        "startMs": 8120,
+        "endMs": 8580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "人",
+        "startMs": 8580,
+        "endMs": 8760,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "要为",
+        "startMs": 9320,
+        "endMs": 9580,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "这些行动负责",
+        "startMs": 9580,
+        "endMs": 10500,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "共产党领导层和共产国际怎样判断风险",
+        "startMs": 11040,
+        "endMs": 14000,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "为什么仍争取合作",
+        "startMs": 14460,
+        "endMs": 15760,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "抵抗准备是否充分",
+        "startMs": 16480,
+        "endMs": 17860,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "则是另一组问题",
+        "startMs": 18420,
+        "endMs": 19420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "研究受镇压一方的",
+        "startMs": 19920,
+        "endMs": 21120,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "判断失误",
+        "startMs": 21120,
+        "endMs": 21720,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "并不会转移实施暴力一方的",
+        "startMs": 22020,
+        "endMs": 23600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16"
+        ]
+      },
+      {
+        "text": "责任",
+        "startMs": 23600,
+        "endMs": 23880,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c17"
+        ]
+      }
+    ],
+    "historical-conclusion": [
+      {
+        "text": "四一二的",
+        "startMs": 160,
+        "endMs": 760,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c1"
+        ]
+      },
+      {
+        "text": "转折",
+        "startMs": 760,
+        "endMs": 1240,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c2"
+        ]
+      },
+      {
+        "text": "在于它用暴力改变了上海的",
+        "startMs": 1700,
+        "endMs": 3620,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c3"
+        ]
+      },
+      {
+        "text": "政治参与和武装控制",
+        "startMs": 3620,
+        "endMs": 5280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c4"
+        ]
+      },
+      {
+        "text": "合作中的",
+        "startMs": 6120,
+        "endMs": 6700,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c5"
+        ]
+      },
+      {
+        "text": "权力分歧",
+        "startMs": 6700,
+        "endMs": 7460,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c6"
+        ]
+      },
+      {
+        "text": "最终由极不对称的",
+        "startMs": 8000,
+        "endMs": 9280,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c7"
+        ]
+      },
+      {
+        "text": "武力来裁决",
+        "startMs": 9280,
+        "endMs": 10060,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c8"
+        ]
+      },
+      {
+        "text": "此后",
+        "startMs": 10540,
+        "endMs": 10940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c9"
+        ]
+      },
+      {
+        "text": "南京权力中心形成",
+        "startMs": 11820,
+        "endMs": 13140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c10"
+        ]
+      },
+      {
+        "text": "武汉也在7月走向分共",
+        "startMs": 13820,
+        "endMs": 15360,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c11"
+        ]
+      },
+      {
+        "text": "把",
+        "startMs": 15800,
+        "endMs": 15940,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c12"
+        ]
+      },
+      {
+        "text": "这些具体行动连起来",
+        "startMs": 15940,
+        "endMs": 17400,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c13"
+        ]
+      },
+      {
+        "text": "我们才能理解",
+        "startMs": 17680,
+        "endMs": 18600,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c14"
+        ]
+      },
+      {
+        "text": "这场决裂来得剧烈",
+        "startMs": 19040,
+        "endMs": 20860,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c15"
+        ]
+      },
+      {
+        "text": "却不是一天完成",
+        "startMs": 21360,
+        "endMs": 22420,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c16"
+        ]
+      },
+      {
+        "text": "它改变的不只是党派关系",
+        "startMs": 23380,
+        "endMs": 25540,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c17"
+        ]
+      },
+      {
+        "text": "还有普通人能否组织",
+        "startMs": 26300,
+        "endMs": 28300,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c18"
+        ]
+      },
+      {
+        "text": "表达和保护自己的",
+        "startMs": 28500,
+        "endMs": 30140,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c19"
+        ]
+      },
+      {
+        "text": "处境",
+        "startMs": 30140,
+        "endMs": 30520,
+        "timingKind": "observed",
+        "sourceCueIds": [
+          "run-0-c20"
+        ]
+      }
+    ]
+  },
+  "background": [
+    {
+      "kind": "music",
+      "assetId": "background-music",
+      "frames": 15239
+    },
+    {
+      "kind": "sfx",
+      "assetId": "background-sfx",
+      "frames": 15239
+    }
+  ]
+}

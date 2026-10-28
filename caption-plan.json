@@ -1,0 +1,5585 @@
+{
+  "schemaVersion": "1.0",
+  "defaultVisible": true,
+  "placement": "canvas",
+  "fps": 30,
+  "cues": [
+    {
+      "id": "opening-question-caption-0",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "1927年春天",
+      "startFrame": 8,
+      "endFrame": 53,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 8,
+        "endFrame": 42
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-1",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "北伐军正向前推进",
+      "startFrame": 53,
+      "endFrame": 121,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 53,
+        "endFrame": 97
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-2",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "上海工人经过第三次武装起义",
+      "startFrame": 121,
+      "endFrame": 195,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 121,
+        "endFrame": 185
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-3",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "打败了军阀部队",
+      "startFrame": 195,
+      "endFrame": 241,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 195,
+        "endFrame": 225
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-4",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "可是",
+      "startFrame": 241,
+      "endFrame": 263,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 241,
+        "endFrame": 251
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-5",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "仅仅几个星期后",
+      "startFrame": 263,
+      "endFrame": 306,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 263,
+        "endFrame": 297
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-6",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "工人纠察队就被缴械",
+      "startFrame": 306,
+      "endFrame": 362,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 306,
+        "endFrame": 348
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-7",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "工会遭到镇压",
+      "startFrame": 362,
+      "endFrame": 414,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 362,
+        "endFrame": 399
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-8",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "原本共同参加国民革命的力量",
+      "startFrame": 414,
+      "endFrame": 489,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 414,
+        "endFrame": 482
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-9",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "为什么走到了",
+      "startFrame": 489,
+      "endFrame": 512,
+      "trackId": "opening-question",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 489,
+        "endFrame": 512
+      }
+    },
+    {
+      "id": "opening-question-caption-10",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "这一步",
+      "startFrame": 512,
+      "endFrame": 545,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 512,
+        "endFrame": 527
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-11",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "要看清四一二",
+      "startFrame": 545,
+      "endFrame": 591,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 545,
+        "endFrame": 576
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-12",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "我们得先回到",
+      "startFrame": 591,
+      "endFrame": 631,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 591,
+        "endFrame": 619
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "opening-question-caption-13",
+      "nodeId": "third-uprising",
+      "shotId": "opening-question",
+      "text": "这场合作是怎样建立的",
+      "startFrame": 631,
+      "endFrame": 715,
+      "trackId": "opening-question",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 631,
+        "endFrame": 687
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-0",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "1924年",
+      "startFrame": 724,
+      "endFrame": 756,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 724,
+        "endFrame": 747
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-1",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "国民党第一次全国代表大会推动国共合作正式形成",
+      "startFrame": 756,
+      "endFrame": 876,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 756,
+        "endFrame": 863
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-2",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "共产党员以个人身份加入国民党",
+      "startFrame": 876,
+      "endFrame": 950,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 876,
+        "endFrame": 941
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-3",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "同时保留共产党的",
+      "startFrame": 950,
+      "endFrame": 983,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 950,
+        "endFrame": 983
+      }
+    },
+    {
+      "id": "cooperation-two-identities-caption-4",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "组织",
+      "startFrame": 983,
+      "endFrame": 1009,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 983,
+        "endFrame": 994
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-5",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "于是",
+      "startFrame": 1009,
+      "endFrame": 1028,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 1009,
+        "endFrame": 1020
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-6",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "一个人可能兼有两党党员身份",
+      "startFrame": 1028,
+      "endFrame": 1101,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 1028,
+        "endFrame": 1087
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-7",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "双方需要共同动员群众",
+      "startFrame": 1101,
+      "endFrame": 1164,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 1101,
+        "endFrame": 1152
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-8",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "建立军队",
+      "startFrame": 1164,
+      "endFrame": 1204,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 1164,
+        "endFrame": 1182
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-9",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "完成反军阀的",
+      "startFrame": 1204,
+      "endFrame": 1232,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 1204,
+        "endFrame": 1232
+      }
+    },
+    {
+      "id": "cooperation-two-identities-caption-10",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "任务",
+      "startFrame": 1232,
+      "endFrame": 1257,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 1232,
+        "endFrame": 1241
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-11",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "可是",
+      "startFrame": 1257,
+      "endFrame": 1288,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 1257,
+        "endFrame": 1270
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-12",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "这份合作没有解决一个根本问题",
+      "startFrame": 1288,
+      "endFrame": 1378,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 1288,
+        "endFrame": 1350
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-13",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "将来的",
+      "startFrame": 1378,
+      "endFrame": 1390,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 1378,
+        "endFrame": 1390
+      }
+    },
+    {
+      "id": "cooperation-two-identities-caption-14",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "军队和政府",
+      "startFrame": 1390,
+      "endFrame": 1433,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 1390,
+        "endFrame": 1416
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "cooperation-two-identities-caption-15",
+      "nodeId": "cooperation",
+      "shotId": "cooperation-two-identities",
+      "text": "究竟由谁领导",
+      "startFrame": 1433,
+      "endFrame": 1492,
+      "trackId": "cooperation-two-identities",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 1433,
+        "endFrame": 1464
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-0",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "1926年",
+      "startFrame": 1500,
+      "endFrame": 1536,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 1500,
+        "endFrame": 1524
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-1",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "中山舰事件和整理党务案已经显露出蒋介石与共产党之间的",
+      "startFrame": 1536,
+      "endFrame": 1700,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 1536,
+        "endFrame": 1700
+      }
+    },
+    {
+      "id": "northern-expedition-tensions-caption-2",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "紧张",
+      "startFrame": 1700,
+      "endFrame": 1728,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 1700,
+        "endFrame": 1712
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-3",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "7月",
+      "startFrame": 1728,
+      "endFrame": 1749,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 1728,
+        "endFrame": 1740
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-4",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "北伐开始",
+      "startFrame": 1749,
+      "endFrame": 1781,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 1749,
+        "endFrame": 1770
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-5",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "军队推进",
+      "startFrame": 1781,
+      "endFrame": 1813,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 1781,
+        "endFrame": 1801
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-6",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "工农运动也在发展",
+      "startFrame": 1813,
+      "endFrame": 1864,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 1813,
+        "endFrame": 1851
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-7",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "双方互相支持",
+      "startFrame": 1864,
+      "endFrame": 1916,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 1864,
+        "endFrame": 1900
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-8",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "指挥体系却不相同",
+      "startFrame": 1916,
+      "endFrame": 1972,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 1916,
+        "endFrame": 1956
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-9",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "越接近大城市",
+      "startFrame": 1972,
+      "endFrame": 2020,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 1972,
+        "endFrame": 2008
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-10",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "分歧就越具体",
+      "startFrame": 2020,
+      "endFrame": 2072,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 2020,
+        "endFrame": 2054
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-11",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "谁接管地方政府",
+      "startFrame": 2072,
+      "endFrame": 2129,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 2072,
+        "endFrame": 2108
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-12",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "工会还能不能罢工",
+      "startFrame": 2129,
+      "endFrame": 2184,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 2129,
+        "endFrame": 2166
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-13",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "工人能不能保有自己的",
+      "startFrame": 2184,
+      "endFrame": 2224,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 2184,
+        "endFrame": 2224
+      }
+    },
+    {
+      "id": "northern-expedition-tensions-caption-14",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "武装",
+      "startFrame": 2224,
+      "endFrame": 2251,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 2224,
+        "endFrame": 2236
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-15",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "这些问题",
+      "startFrame": 2251,
+      "endFrame": 2290,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 2251,
+        "endFrame": 2273
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-16",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "逐渐从合作内部的",
+      "startFrame": 2290,
+      "endFrame": 2326,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 2290,
+        "endFrame": 2326
+      }
+    },
+    {
+      "id": "northern-expedition-tensions-caption-17",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "争论",
+      "startFrame": 2326,
+      "endFrame": 2353,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18"
+      ],
+      "observedRange": {
+        "startFrame": 2326,
+        "endFrame": 2339
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "northern-expedition-tensions-caption-18",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "变成了实际的",
+      "startFrame": 2353,
+      "endFrame": 2381,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c19"
+      ],
+      "observedRange": {
+        "startFrame": 2353,
+        "endFrame": 2381
+      }
+    },
+    {
+      "id": "northern-expedition-tensions-caption-19",
+      "nodeId": "northern-expedition",
+      "shotId": "northern-expedition-tensions",
+      "text": "权力冲突",
+      "startFrame": 2381,
+      "endFrame": 2428,
+      "trackId": "northern-expedition-tensions",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c20"
+      ],
+      "observedRange": {
+        "startFrame": 2381,
+        "endFrame": 2401
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "order-before-victory-caption-0",
+      "nodeId": "february-order",
+      "shotId": "order-before-victory",
+      "text": "4月12日前",
+      "startFrame": 2436,
+      "endFrame": 2478,
+      "trackId": "order-before-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 2436,
+        "endFrame": 2467
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "order-before-victory-caption-1",
+      "nodeId": "february-order",
+      "shotId": "order-before-victory",
+      "text": "上海工人已经走过一段艰难的",
+      "startFrame": 2478,
+      "endFrame": 2536,
+      "trackId": "order-before-victory",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 2478,
+        "endFrame": 2536
+      }
+    },
+    {
+      "id": "order-before-victory-caption-2",
+      "nodeId": "february-order",
+      "shotId": "order-before-victory",
+      "text": "路",
+      "startFrame": 2536,
+      "endFrame": 2560,
+      "trackId": "order-before-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 2536,
+        "endFrame": 2541
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "order-before-victory-caption-3",
+      "nodeId": "february-order",
+      "shotId": "order-before-victory",
+      "text": "这份总同盟罢工令发于1927年2月19日",
+      "startFrame": 2560,
+      "endFrame": 2706,
+      "trackId": "order-before-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 2560,
+        "endFrame": 2694
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "order-before-victory-caption-4",
+      "nodeId": "february-order",
+      "shotId": "order-before-victory",
+      "text": "那时第二次武装起义还在准备",
+      "startFrame": 2706,
+      "endFrame": 2807,
+      "trackId": "order-before-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 2706,
+        "endFrame": 2792
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "order-before-victory-caption-5",
+      "nodeId": "february-order",
+      "shotId": "order-before-victory",
+      "text": "他们要用罢工和起义",
+      "startFrame": 2807,
+      "endFrame": 2868,
+      "trackId": "order-before-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 2807,
+        "endFrame": 2853
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "order-before-victory-caption-6",
+      "nodeId": "february-order",
+      "shotId": "order-before-victory",
+      "text": "配合北伐军进城",
+      "startFrame": 2868,
+      "endFrame": 2931,
+      "trackId": "order-before-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 2868,
+        "endFrame": 2907
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "uprising-victory-caption-0",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "一个月后",
+      "startFrame": 2937,
+      "endFrame": 2964,
+      "trackId": "uprising-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 2937,
+        "endFrame": 2960
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "uprising-victory-caption-1",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "第三次起义终于获胜",
+      "startFrame": 2964,
+      "endFrame": 3036,
+      "trackId": "uprising-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 2964,
+        "endFrame": 3006
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "uprising-victory-caption-2",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "3月21日发动",
+      "startFrame": 3036,
+      "endFrame": 3087,
+      "trackId": "uprising-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 3036,
+        "endFrame": 3071
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "uprising-victory-caption-3",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "22日军阀部队被击败",
+      "startFrame": 3087,
+      "endFrame": 3172,
+      "trackId": "uprising-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 3087,
+        "endFrame": 3147
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "uprising-victory-caption-4",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "周恩来负责军事指挥",
+      "startFrame": 3172,
+      "endFrame": 3228,
+      "trackId": "uprising-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 3172,
+        "endFrame": 3214
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "uprising-victory-caption-5",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "工人纠察队成为重要力量",
+      "startFrame": 3228,
+      "endFrame": 3288,
+      "trackId": "uprising-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 3228,
+        "endFrame": 3274
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "uprising-victory-caption-6",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "但起义控制的",
+      "startFrame": 3288,
+      "endFrame": 3314,
+      "trackId": "uprising-victory",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 3288,
+        "endFrame": 3314
+      }
+    },
+    {
+      "id": "uprising-victory-caption-7",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "范围并不包括外国租界",
+      "startFrame": 3314,
+      "endFrame": 3389,
+      "trackId": "uprising-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 3314,
+        "endFrame": 3375
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "uprising-victory-caption-8",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "胜利以后",
+      "startFrame": 3389,
+      "endFrame": 3423,
+      "trackId": "uprising-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 3389,
+        "endFrame": 3413
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "uprising-victory-caption-9",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "新的",
+      "startFrame": 3423,
+      "endFrame": 3431,
+      "trackId": "uprising-victory",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 3423,
+        "endFrame": 3431
+      }
+    },
+    {
+      "id": "uprising-victory-caption-10",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "问题出现了",
+      "startFrame": 3431,
+      "endFrame": 3479,
+      "trackId": "uprising-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 3431,
+        "endFrame": 3452
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "uprising-victory-caption-11",
+      "nodeId": "third-uprising",
+      "shotId": "uprising-victory",
+      "text": "武装和地方权力由谁掌握",
+      "startFrame": 3479,
+      "endFrame": 3574,
+      "trackId": "uprising-victory",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 3479,
+        "endFrame": 3545
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "guild-then-and-now-caption-0",
+      "nodeId": "city-power",
+      "shotId": "guild-then-and-now",
+      "text": "起义后",
+      "startFrame": 3580,
+      "endFrame": 3611,
+      "trackId": "guild-then-and-now",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 3580,
+        "endFrame": 3601
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "guild-then-and-now-caption-1",
+      "nodeId": "city-power",
+      "shotId": "guild-then-and-now",
+      "text": "湖州会馆成了上海总工会的",
+      "startFrame": 3611,
+      "endFrame": 3672,
+      "trackId": "guild-then-and-now",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 3611,
+        "endFrame": 3672
+      }
+    },
+    {
+      "id": "guild-then-and-now-caption-2",
+      "nodeId": "city-power",
+      "shotId": "guild-then-and-now",
+      "text": "总会所",
+      "startFrame": 3672,
+      "endFrame": 3703,
+      "trackId": "guild-then-and-now",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 3672,
+        "endFrame": 3690
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "guild-then-and-now-caption-3",
+      "nodeId": "city-power",
+      "shotId": "guild-then-and-now",
+      "text": "左边的",
+      "startFrame": 3703,
+      "endFrame": 3716,
+      "trackId": "guild-then-and-now",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 3703,
+        "endFrame": 3716
+      }
+    },
+    {
+      "id": "guild-then-and-now-caption-4",
+      "nodeId": "city-power",
+      "shotId": "guild-then-and-now",
+      "text": "旧照留下了1927年3月的",
+      "startFrame": 3716,
+      "endFrame": 3792,
+      "trackId": "guild-then-and-now",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 3716,
+        "endFrame": 3792
+      }
+    },
+    {
+      "id": "guild-then-and-now-caption-5",
+      "nodeId": "city-power",
+      "shotId": "guild-then-and-now",
+      "text": "工人武装",
+      "startFrame": 3792,
+      "endFrame": 3825,
+      "trackId": "guild-then-and-now",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 3792,
+        "endFrame": 3812
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "guild-then-and-now-caption-6",
+      "nodeId": "city-power",
+      "shotId": "guild-then-and-now",
+      "text": "右边是2021年报道中的",
+      "startFrame": 3825,
+      "endFrame": 3900,
+      "trackId": "guild-then-and-now",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 3825,
+        "endFrame": 3900
+      }
+    },
+    {
+      "id": "guild-then-and-now-caption-7",
+      "nodeId": "city-power",
+      "shotId": "guild-then-and-now",
+      "text": "遗址纪念场馆门头",
+      "startFrame": 3900,
+      "endFrame": 3978,
+      "trackId": "guild-then-and-now",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 3900,
+        "endFrame": 3958
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "guild-then-and-now-caption-8",
+      "nodeId": "city-power",
+      "shotId": "guild-then-and-now",
+      "text": "原建筑大部分毁于1932年战火",
+      "startFrame": 3978,
+      "endFrame": 4064,
+      "trackId": "guild-then-and-now",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 3978,
+        "endFrame": 4053
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "guild-then-and-now-caption-9",
+      "nodeId": "city-power",
+      "shotId": "guild-then-and-now",
+      "text": "右图牌楼是后来复建的",
+      "startFrame": 4064,
+      "endFrame": 4146,
+      "trackId": "guild-then-and-now",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 4064,
+        "endFrame": 4122
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-0",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "与此同时",
+      "startFrame": 4153,
+      "endFrame": 4190,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 4153,
+        "endFrame": 4174
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-1",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "军队",
+      "startFrame": 4190,
+      "endFrame": 4214,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 4190,
+        "endFrame": 4206
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-2",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "总工会和临时市政府都在上海活动",
+      "startFrame": 4214,
+      "endFrame": 4335,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 4214,
+        "endFrame": 4304
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-3",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "它们声称属于同一个革命阵营",
+      "startFrame": 4335,
+      "endFrame": 4408,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 4335,
+        "endFrame": 4392
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-4",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "却没有形成稳定的",
+      "startFrame": 4408,
+      "endFrame": 4441,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 4408,
+        "endFrame": 4441
+      }
+    },
+    {
+      "id": "city-competing-authority-caption-5",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "共同指挥",
+      "startFrame": 4441,
+      "endFrame": 4473,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 4441,
+        "endFrame": 4460
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-6",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "蒋介石方面调整驻沪部队",
+      "startFrame": 4473,
+      "endFrame": 4541,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 4473,
+        "endFrame": 4527
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-7",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "共产党则试图争取军队支持",
+      "startFrame": 4541,
+      "endFrame": 4628,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 4541,
+        "endFrame": 4620
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-8",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "保存工人武装",
+      "startFrame": 4628,
+      "endFrame": 4669,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 4628,
+        "endFrame": 4656
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-9",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "最后真正起作用的",
+      "startFrame": 4669,
+      "endFrame": 4721,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 4669,
+        "endFrame": 4708
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-10",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "是哪一支部队听谁的",
+      "startFrame": 4721,
+      "endFrame": 4758,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 4721,
+        "endFrame": 4758
+      }
+    },
+    {
+      "id": "city-competing-authority-caption-11",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "命令",
+      "startFrame": 4758,
+      "endFrame": 4783,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 4758,
+        "endFrame": 4767
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-12",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "公开的",
+      "startFrame": 4783,
+      "endFrame": 4796,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 4783,
+        "endFrame": 4796
+      }
+    },
+    {
+      "id": "city-competing-authority-caption-13",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "团结口号",
+      "startFrame": 4796,
+      "endFrame": 4842,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 4796,
+        "endFrame": 4817
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "city-competing-authority-caption-14",
+      "nodeId": "city-power",
+      "shotId": "city-competing-authority",
+      "text": "已经越来越难以掩盖这个分歧",
+      "startFrame": 4842,
+      "endFrame": 4922,
+      "trackId": "city-competing-authority",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 4842,
+        "endFrame": 4896
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "a-promise-of-cooperation-caption-0",
+      "nodeId": "wang-chen-declaration",
+      "shotId": "a-promise-of-cooperation",
+      "text": "这时",
+      "startFrame": 4927,
+      "endFrame": 4960,
+      "trackId": "a-promise-of-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 4927,
+        "endFrame": 4940
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "a-promise-of-cooperation-caption-1",
+      "nodeId": "wang-chen-declaration",
+      "shotId": "a-promise-of-cooperation",
+      "text": "国共合作还没有完全破裂",
+      "startFrame": 4960,
+      "endFrame": 5026,
+      "trackId": "a-promise-of-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 4960,
+        "endFrame": 5010
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "a-promise-of-cooperation-caption-2",
+      "nodeId": "wang-chen-declaration",
+      "shotId": "a-promise-of-cooperation",
+      "text": "4月5日",
+      "startFrame": 5026,
+      "endFrame": 5059,
+      "trackId": "a-promise-of-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 5026,
+        "endFrame": 5045
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "a-promise-of-cooperation-caption-3",
+      "nodeId": "wang-chen-declaration",
+      "shotId": "a-promise-of-cooperation",
+      "text": "汪精卫和陈独秀发表联合宣言",
+      "startFrame": 5059,
+      "endFrame": 5143,
+      "trackId": "a-promise-of-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 5059,
+        "endFrame": 5129
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "a-promise-of-cooperation-caption-4",
+      "nodeId": "wang-chen-declaration",
+      "shotId": "a-promise-of-cooperation",
+      "text": "仍希望用协商消除冲突",
+      "startFrame": 5143,
+      "endFrame": 5232,
+      "trackId": "a-promise-of-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 5143,
+        "endFrame": 5204
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "a-promise-of-cooperation-caption-5",
+      "nodeId": "wang-chen-declaration",
+      "shotId": "a-promise-of-cooperation",
+      "text": "宣言给出了不会驱逐共产党",
+      "startFrame": 5232,
+      "endFrame": 5303,
+      "trackId": "a-promise-of-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 5232,
+        "endFrame": 5292
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "a-promise-of-cooperation-caption-6",
+      "nodeId": "wang-chen-declaration",
+      "shotId": "a-promise-of-cooperation",
+      "text": "摧残工会的",
+      "startFrame": 5303,
+      "endFrame": 5327,
+      "trackId": "a-promise-of-cooperation",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 5303,
+        "endFrame": 5327
+      }
+    },
+    {
+      "id": "a-promise-of-cooperation-caption-7",
+      "nodeId": "wang-chen-declaration",
+      "shotId": "a-promise-of-cooperation",
+      "text": "承诺",
+      "startFrame": 5327,
+      "endFrame": 5354,
+      "trackId": "a-promise-of-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 5327,
+        "endFrame": 5338
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "a-promise-of-cooperation-caption-8",
+      "nodeId": "wang-chen-declaration",
+      "shotId": "a-promise-of-cooperation",
+      "text": "但公开承诺",
+      "startFrame": 5354,
+      "endFrame": 5404,
+      "trackId": "a-promise-of-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 5354,
+        "endFrame": 5381
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "a-promise-of-cooperation-caption-9",
+      "nodeId": "wang-chen-declaration",
+      "shotId": "a-promise-of-cooperation",
+      "text": "终究没能约束掌握军队的",
+      "startFrame": 5404,
+      "endFrame": 5454,
+      "trackId": "a-promise-of-cooperation",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 5404,
+        "endFrame": 5454
+      }
+    },
+    {
+      "id": "a-promise-of-cooperation-caption-10",
+      "nodeId": "wang-chen-declaration",
+      "shotId": "a-promise-of-cooperation",
+      "text": "一方",
+      "startFrame": 5454,
+      "endFrame": 5491,
+      "trackId": "a-promise-of-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 5454,
+        "endFrame": 5464
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-night-before-caption-0",
+      "nodeId": "eve",
+      "shotId": "the-night-before",
+      "text": "几天后",
+      "startFrame": 5497,
+      "endFrame": 5526,
+      "trackId": "the-night-before",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 5497,
+        "endFrame": 5514
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-night-before-caption-1",
+      "nodeId": "eve",
+      "shotId": "the-night-before",
+      "text": "局势骤然收紧",
+      "startFrame": 5526,
+      "endFrame": 5573,
+      "trackId": "the-night-before",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 5526,
+        "endFrame": 5561
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-night-before-caption-2",
+      "nodeId": "eve",
+      "shotId": "the-night-before",
+      "text": "4月11日夜",
+      "startFrame": 5573,
+      "endFrame": 5616,
+      "trackId": "the-night-before",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 5573,
+        "endFrame": 5602
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-night-before-caption-3",
+      "nodeId": "eve",
+      "shotId": "the-night-before",
+      "text": "上海总工会委员长汪寿华应邀前往杜月笙处",
+      "startFrame": 5616,
+      "endFrame": 5737,
+      "trackId": "the-night-before",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 5616,
+        "endFrame": 5726
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-night-before-caption-4",
+      "nodeId": "eve",
+      "shotId": "the-night-before",
+      "text": "随后遇害",
+      "startFrame": 5737,
+      "endFrame": 5775,
+      "trackId": "the-night-before",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 5737,
+        "endFrame": 5757
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-night-before-caption-5",
+      "nodeId": "eve",
+      "shotId": "the-night-before",
+      "text": "针对工人组织的",
+      "startFrame": 5775,
+      "endFrame": 5806,
+      "trackId": "the-night-before",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 5775,
+        "endFrame": 5806
+      }
+    },
+    {
+      "id": "the-night-before-caption-6",
+      "nodeId": "eve",
+      "shotId": "the-night-before",
+      "text": "打击已经先落在了领导者身上",
+      "startFrame": 5806,
+      "endFrame": 5911,
+      "trackId": "the-night-before",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 5806,
+        "endFrame": 5886
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-attack-begins-caption-0",
+      "nodeId": "april12",
+      "shotId": "the-attack-begins",
+      "text": "第二天凌晨",
+      "startFrame": 5917,
+      "endFrame": 5949,
+      "trackId": "the-attack-begins",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 5917,
+        "endFrame": 5938
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-attack-begins-caption-1",
+      "nodeId": "april12",
+      "shotId": "the-attack-begins",
+      "text": "袭击开始了",
+      "startFrame": 5949,
+      "endFrame": 5997,
+      "trackId": "the-attack-begins",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 5949,
+        "endFrame": 5971
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-attack-begins-caption-2",
+      "nodeId": "april12",
+      "shotId": "the-attack-begins",
+      "text": "帮会武装向工人纠察队发动进攻",
+      "startFrame": 5997,
+      "endFrame": 6091,
+      "trackId": "the-attack-begins",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 5997,
+        "endFrame": 6075
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-attack-begins-caption-3",
+      "nodeId": "april12",
+      "shotId": "the-attack-begins",
+      "text": "紧接着",
+      "startFrame": 6091,
+      "endFrame": 6126,
+      "trackId": "the-attack-begins",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 6091,
+        "endFrame": 6106
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-attack-begins-caption-4",
+      "nodeId": "april12",
+      "shotId": "the-attack-begins",
+      "text": "国民党军队出面",
+      "startFrame": 6126,
+      "endFrame": 6172,
+      "trackId": "the-attack-begins",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 6126,
+        "endFrame": 6157
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "the-attack-begins-caption-5",
+      "nodeId": "april12",
+      "shotId": "the-attack-begins",
+      "text": "以调解冲突为名介入",
+      "startFrame": 6172,
+      "endFrame": 6241,
+      "trackId": "the-attack-begins",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 6172,
+        "endFrame": 6215
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "disarmament-caption-0",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "军队带来的",
+      "startFrame": 6247,
+      "endFrame": 6283,
+      "trackId": "disarmament",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 6247,
+        "endFrame": 6273
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "disarmament-caption-1",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "却不是让双方停下来的",
+      "startFrame": 6283,
+      "endFrame": 6328,
+      "trackId": "disarmament",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 6283,
+        "endFrame": 6328
+      }
+    },
+    {
+      "id": "disarmament-caption-2",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "调解",
+      "startFrame": 6328,
+      "endFrame": 6370,
+      "trackId": "disarmament",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 6328,
+        "endFrame": 6342
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "disarmament-caption-3",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "工人纠察队被迫交出武器",
+      "startFrame": 6370,
+      "endFrame": 6442,
+      "trackId": "disarmament",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 6370,
+        "endFrame": 6426
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "disarmament-caption-4",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "工会机关遭到占领",
+      "startFrame": 6442,
+      "endFrame": 6493,
+      "trackId": "disarmament",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 6442,
+        "endFrame": 6480
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "disarmament-caption-5",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "人员被搜捕",
+      "startFrame": 6493,
+      "endFrame": 6546,
+      "trackId": "disarmament",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 6493,
+        "endFrame": 6519
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "disarmament-caption-6",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "蒋介石发动的",
+      "startFrame": 6546,
+      "endFrame": 6576,
+      "trackId": "disarmament",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 6546,
+        "endFrame": 6576
+      }
+    },
+    {
+      "id": "disarmament-caption-7",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "清党就",
+      "startFrame": 6576,
+      "endFrame": 6609,
+      "trackId": "disarmament",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 6576,
+        "endFrame": 6609
+      }
+    },
+    {
+      "id": "disarmament-caption-8",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "这样改写了上海的",
+      "startFrame": 6609,
+      "endFrame": 6656,
+      "trackId": "disarmament",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 6609,
+        "endFrame": 6646
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "disarmament-caption-9",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "力量对比",
+      "startFrame": 6656,
+      "endFrame": 6688,
+      "trackId": "disarmament",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 6656,
+        "endFrame": 6673
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "disarmament-caption-10",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "失去武装以后",
+      "startFrame": 6688,
+      "endFrame": 6735,
+      "trackId": "disarmament",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 6688,
+        "endFrame": 6723
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "disarmament-caption-11",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "工人组织再要保护自己",
+      "startFrame": 6735,
+      "endFrame": 6797,
+      "trackId": "disarmament",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 6735,
+        "endFrame": 6782
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "disarmament-caption-12",
+      "nodeId": "april12",
+      "shotId": "disarmament",
+      "text": "已经更加困难",
+      "startFrame": 6797,
+      "endFrame": 6851,
+      "trackId": "disarmament",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 6797,
+        "endFrame": 6824
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "april-thirteen-caption-0",
+      "nodeId": "april13",
+      "shotId": "april-thirteen",
+      "text": "4月13日",
+      "startFrame": 6856,
+      "endFrame": 6898,
+      "trackId": "april-thirteen",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 6856,
+        "endFrame": 6884
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "april-thirteen-caption-1",
+      "nodeId": "april13",
+      "shotId": "april-thirteen",
+      "text": "工人仍然罢工",
+      "startFrame": 6898,
+      "endFrame": 6944,
+      "trackId": "april-thirteen",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 6898,
+        "endFrame": 6926
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "april-thirteen-caption-2",
+      "nodeId": "april13",
+      "shotId": "april-thirteen",
+      "text": "群众仍然走上街头",
+      "startFrame": 6944,
+      "endFrame": 7013,
+      "trackId": "april-thirteen",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 6944,
+        "endFrame": 6985
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "april-thirteen-caption-3",
+      "nodeId": "april13",
+      "shotId": "april-thirteen",
+      "text": "他们要求释放被捕者",
+      "startFrame": 7013,
+      "endFrame": 7061,
+      "trackId": "april-thirteen",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 7013,
+        "endFrame": 7053
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "april-thirteen-caption-4",
+      "nodeId": "april13",
+      "shotId": "april-thirteen",
+      "text": "归还武器",
+      "startFrame": 7061,
+      "endFrame": 7111,
+      "trackId": "april-thirteen",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 7061,
+        "endFrame": 7083
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "april-thirteen-caption-5",
+      "nodeId": "april13",
+      "shotId": "april-thirteen",
+      "text": "游行队伍来到宝山路一带",
+      "startFrame": 7111,
+      "endFrame": 7173,
+      "trackId": "april-thirteen",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 7111,
+        "endFrame": 7160
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "april-thirteen-caption-6",
+      "nodeId": "april13",
+      "shotId": "april-thirteen",
+      "text": "遭到军队开枪",
+      "startFrame": 7173,
+      "endFrame": 7232,
+      "trackId": "april-thirteen",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 7173,
+        "endFrame": 7202
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "april-thirteen-caption-7",
+      "nodeId": "april13",
+      "shotId": "april-thirteen",
+      "text": "前一天是缴械",
+      "startFrame": 7232,
+      "endFrame": 7275,
+      "trackId": "april-thirteen",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 7232,
+        "endFrame": 7262
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "april-thirteen-caption-8",
+      "nodeId": "april13",
+      "shotId": "april-thirteen",
+      "text": "这一天抗议又遭到镇压",
+      "startFrame": 7275,
+      "endFrame": 7351,
+      "trackId": "april-thirteen",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 7275,
+        "endFrame": 7336
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "april-thirteen-caption-9",
+      "nodeId": "april13",
+      "shotId": "april-thirteen",
+      "text": "暴力并没有随着一个清晨结束",
+      "startFrame": 7351,
+      "endFrame": 7434,
+      "trackId": "april-thirteen",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 7351,
+        "endFrame": 7409
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "what-was-lost-caption-0",
+      "nodeId": "april13",
+      "shotId": "what-was-lost",
+      "text": "所以",
+      "startFrame": 7439,
+      "endFrame": 7467,
+      "trackId": "what-was-lost",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 7439,
+        "endFrame": 7452
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "what-was-lost-caption-1",
+      "nodeId": "april13",
+      "shotId": "what-was-lost",
+      "text": "四一二不只是两党领袖关系的",
+      "startFrame": 7467,
+      "endFrame": 7527,
+      "trackId": "what-was-lost",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 7467,
+        "endFrame": 7527
+      }
+    },
+    {
+      "id": "what-was-lost-caption-2",
+      "nodeId": "april13",
+      "shotId": "what-was-lost",
+      "text": "改变",
+      "startFrame": 7527,
+      "endFrame": 7556,
+      "trackId": "what-was-lost",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 7527,
+        "endFrame": 7538
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "what-was-lost-caption-3",
+      "nodeId": "april13",
+      "shotId": "what-was-lost",
+      "text": "它首先改变了工人能否组织",
+      "startFrame": 7556,
+      "endFrame": 7622,
+      "trackId": "what-was-lost",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 7556,
+        "endFrame": 7611
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "what-was-lost-caption-4",
+      "nodeId": "april13",
+      "shotId": "what-was-lost",
+      "text": "能否自卫",
+      "startFrame": 7622,
+      "endFrame": 7655,
+      "trackId": "what-was-lost",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 7622,
+        "endFrame": 7642
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "what-was-lost-caption-5",
+      "nodeId": "april13",
+      "shotId": "what-was-lost",
+      "text": "以及能否安全表达诉求",
+      "startFrame": 7655,
+      "endFrame": 7724,
+      "trackId": "what-was-lost",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 7655,
+        "endFrame": 7712
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "what-was-lost-caption-6",
+      "nodeId": "april13",
+      "shotId": "what-was-lost",
+      "text": "工人纠察队被缴械之后",
+      "startFrame": 7724,
+      "endFrame": 7784,
+      "trackId": "what-was-lost",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 7724,
+        "endFrame": 7775
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "what-was-lost-caption-7",
+      "nodeId": "april13",
+      "shotId": "what-was-lost",
+      "text": "原本依靠罢工和集会争取结果的",
+      "startFrame": 7784,
+      "endFrame": 7856,
+      "trackId": "what-was-lost",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 7784,
+        "endFrame": 7856
+      }
+    },
+    {
+      "id": "what-was-lost-caption-8",
+      "nodeId": "april13",
+      "shotId": "what-was-lost",
+      "text": "办法",
+      "startFrame": 7856,
+      "endFrame": 7885,
+      "trackId": "what-was-lost",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 7856,
+        "endFrame": 7867
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "what-was-lost-caption-9",
+      "nodeId": "april13",
+      "shotId": "what-was-lost",
+      "text": "也失去了基本的",
+      "startFrame": 7885,
+      "endFrame": 7912,
+      "trackId": "what-was-lost",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 7885,
+        "endFrame": 7912
+      }
+    },
+    {
+      "id": "what-was-lost-caption-10",
+      "nodeId": "april13",
+      "shotId": "what-was-lost",
+      "text": "安全保障",
+      "startFrame": 7912,
+      "endFrame": 7956,
+      "trackId": "what-was-lost",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 7912,
+        "endFrame": 7929
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "purge-beyond-membership-caption-0",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "接下来的",
+      "startFrame": 7961,
+      "endFrame": 7979,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 7961,
+        "endFrame": 7979
+      }
+    },
+    {
+      "id": "purge-beyond-membership-caption-1",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "行动被称作清党",
+      "startFrame": 7979,
+      "endFrame": 8058,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 7979,
+        "endFrame": 8028
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "purge-beyond-membership-caption-2",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "但它并不只是清理党员名单",
+      "startFrame": 8058,
+      "endFrame": 8144,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 8058,
+        "endFrame": 8125
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "purge-beyond-membership-caption-3",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "收缴武器",
+      "startFrame": 8144,
+      "endFrame": 8180,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 8144,
+        "endFrame": 8168
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "purge-beyond-membership-caption-4",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "解散组织",
+      "startFrame": 8180,
+      "endFrame": 8216,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 8180,
+        "endFrame": 8205
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "purge-beyond-membership-caption-5",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "拘捕和杀害",
+      "startFrame": 8216,
+      "endFrame": 8255,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 8216,
+        "endFrame": 8243
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "purge-beyond-membership-caption-6",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "波及共产党人",
+      "startFrame": 8255,
+      "endFrame": 8302,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 8255,
+        "endFrame": 8283
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "purge-beyond-membership-caption-7",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "也波及工运参与者和其他被认定的",
+      "startFrame": 8302,
+      "endFrame": 8394,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 8302,
+        "endFrame": 8394
+      }
+    },
+    {
+      "id": "purge-beyond-membership-caption-8",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "左派",
+      "startFrame": 8394,
+      "endFrame": 8421,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 8394,
+        "endFrame": 8405
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "purge-beyond-membership-caption-9",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "镇压还扩展到东南",
+      "startFrame": 8421,
+      "endFrame": 8477,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 8421,
+        "endFrame": 8465
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "purge-beyond-membership-caption-10",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "华南多地",
+      "startFrame": 8477,
+      "endFrame": 8512,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 8477,
+        "endFrame": 8498
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "purge-beyond-membership-caption-11",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "各地发生的",
+      "startFrame": 8512,
+      "endFrame": 8532,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 8512,
+        "endFrame": 8532
+      }
+    },
+    {
+      "id": "purge-beyond-membership-caption-12",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "时间和执行者并不相同",
+      "startFrame": 8532,
+      "endFrame": 8612,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 8532,
+        "endFrame": 8585
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "purge-beyond-membership-caption-13",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "不能把所有损失都归到上海十二日的",
+      "startFrame": 8612,
+      "endFrame": 8676,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 8612,
+        "endFrame": 8676
+      }
+    },
+    {
+      "id": "purge-beyond-membership-caption-14",
+      "nodeId": "repression",
+      "shotId": "purge-beyond-membership",
+      "text": "一个清晨",
+      "startFrame": 8676,
+      "endFrame": 8721,
+      "trackId": "purge-beyond-membership",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 8676,
+        "endFrame": 8694
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-0",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "那么",
+      "startFrame": 8727,
+      "endFrame": 8760,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 8727,
+        "endFrame": 8741
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-1",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "究竟有多少人遇害",
+      "startFrame": 8760,
+      "endFrame": 8822,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 8760,
+        "endFrame": 8794
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-2",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "先要分清数字在统计什么",
+      "startFrame": 8822,
+      "endFrame": 8897,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 8822,
+        "endFrame": 8870
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-3",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "南京党史网将十二日记为工人死伤300余人",
+      "startFrame": 8897,
+      "endFrame": 9019,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 8897,
+        "endFrame": 8996
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-4",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "十三日记为死伤数百人",
+      "startFrame": 9019,
+      "endFrame": 9093,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 9019,
+        "endFrame": 9079
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-5",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "这里说的",
+      "startFrame": 9093,
+      "endFrame": 9108,
+      "trackId": "casualty-counts",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 9093,
+        "endFrame": 9108
+      }
+    },
+    {
+      "id": "casualty-counts-caption-6",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "是死伤",
+      "startFrame": 9108,
+      "endFrame": 9144,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 9108,
+        "endFrame": 9126
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-7",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "不能全部改写成死亡",
+      "startFrame": 9144,
+      "endFrame": 9200,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 9144,
+        "endFrame": 9185
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-8",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "而剑桥中国史",
+      "startFrame": 9200,
+      "endFrame": 9230,
+      "trackId": "casualty-counts",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 9200,
+        "endFrame": 9230
+      }
+    },
+    {
+      "id": "casualty-counts-caption-9",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "这一章的",
+      "startFrame": 9230,
+      "endFrame": 9244,
+      "trackId": "casualty-counts",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 9230,
+        "endFrame": 9244
+      }
+    },
+    {
+      "id": "casualty-counts-caption-10",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "公开摘要",
+      "startFrame": 9244,
+      "endFrame": 9280,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 9244,
+        "endFrame": 9267
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-11",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "把当天和随后一个月放在一起",
+      "startFrame": 9280,
+      "endFrame": 9349,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 9280,
+        "endFrame": 9337
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-12",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "估计有数千人被杀",
+      "startFrame": 9349,
+      "endFrame": 9413,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 9349,
+        "endFrame": 9386
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-13",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "它的",
+      "startFrame": 9413,
+      "endFrame": 9420,
+      "trackId": "casualty-counts",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 9413,
+        "endFrame": 9420
+      }
+    },
+    {
+      "id": "casualty-counts-caption-14",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "时间范围更长",
+      "startFrame": 9420,
+      "endFrame": 9465,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 9420,
+        "endFrame": 9451
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-counts-caption-15",
+      "nodeId": "casualties",
+      "shotId": "casualty-counts",
+      "text": "统计对象也不同",
+      "startFrame": 9465,
+      "endFrame": 9524,
+      "trackId": "casualty-counts",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 9465,
+        "endFrame": 9498
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-limits-caption-0",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "我们没有读到能够独立复算的",
+      "startFrame": 9530,
+      "endFrame": 9588,
+      "trackId": "casualty-limits",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 9530,
+        "endFrame": 9588
+      }
+    },
+    {
+      "id": "casualty-limits-caption-1",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "完整名单和统计表",
+      "startFrame": 9588,
+      "endFrame": 9651,
+      "trackId": "casualty-limits",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 9588,
+        "endFrame": 9635
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-limits-caption-2",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "也没有读到剑桥",
+      "startFrame": 9651,
+      "endFrame": 9682,
+      "trackId": "casualty-limits",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 9651,
+        "endFrame": 9682
+      }
+    },
+    {
+      "id": "casualty-limits-caption-3",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "这一章的",
+      "startFrame": 9682,
+      "endFrame": 9697,
+      "trackId": "casualty-limits",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 9682,
+        "endFrame": 9697
+      }
+    },
+    {
+      "id": "casualty-limits-caption-4",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "完整注释",
+      "startFrame": 9697,
+      "endFrame": 9748,
+      "trackId": "casualty-limits",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 9697,
+        "endFrame": 9722
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-limits-caption-5",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "所以",
+      "startFrame": 9748,
+      "endFrame": 9778,
+      "trackId": "casualty-limits",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 9748,
+        "endFrame": 9759
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-limits-caption-6",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "这里确认大规模暴力和伤亡的",
+      "startFrame": 9778,
+      "endFrame": 9836,
+      "trackId": "casualty-limits",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 9778,
+        "endFrame": 9836
+      }
+    },
+    {
+      "id": "casualty-limits-caption-7",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "发生",
+      "startFrame": 9836,
+      "endFrame": 9862,
+      "trackId": "casualty-limits",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 9836,
+        "endFrame": 9849
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-limits-caption-8",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "不给出一个看似精确的",
+      "startFrame": 9862,
+      "endFrame": 9922,
+      "trackId": "casualty-limits",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 9862,
+        "endFrame": 9913
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-limits-caption-9",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "当天死亡总数",
+      "startFrame": 9922,
+      "endFrame": 9969,
+      "trackId": "casualty-limits",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 9922,
+        "endFrame": 9956
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-limits-caption-10",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "要比较不同估计",
+      "startFrame": 9969,
+      "endFrame": 10017,
+      "trackId": "casualty-limits",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 9969,
+        "endFrame": 10006
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-limits-caption-11",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "必须同时看地区",
+      "startFrame": 10017,
+      "endFrame": 10063,
+      "trackId": "casualty-limits",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 10017,
+        "endFrame": 10052
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-limits-caption-12",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "日期以及统计的",
+      "startFrame": 10063,
+      "endFrame": 10109,
+      "trackId": "casualty-limits",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 10063,
+        "endFrame": 10109
+      }
+    },
+    {
+      "id": "casualty-limits-caption-13",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "是死亡",
+      "startFrame": 10109,
+      "endFrame": 10138,
+      "trackId": "casualty-limits",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 10109,
+        "endFrame": 10127
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-limits-caption-14",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "死伤还是失踪",
+      "startFrame": 10138,
+      "endFrame": 10210,
+      "trackId": "casualty-limits",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 10138,
+        "endFrame": 10180
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "casualty-limits-caption-15",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "数字之间的",
+      "startFrame": 10210,
+      "endFrame": 10232,
+      "trackId": "casualty-limits",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 10210,
+        "endFrame": 10232
+      }
+    },
+    {
+      "id": "casualty-limits-caption-16",
+      "nodeId": "casualties",
+      "shotId": "casualty-limits",
+      "text": "差别本身也需要解释",
+      "startFrame": 10232,
+      "endFrame": 10318,
+      "trackId": "casualty-limits",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 10232,
+        "endFrame": 10291
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-0",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "上海的",
+      "startFrame": 10323,
+      "endFrame": 10337,
+      "trackId": "nanjing-government",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 10323,
+        "endFrame": 10337
+      }
+    },
+    {
+      "id": "nanjing-government-caption-1",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "镇压之后",
+      "startFrame": 10337,
+      "endFrame": 10368,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 10337,
+        "endFrame": 10360
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-2",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "4月18日",
+      "startFrame": 10368,
+      "endFrame": 10408,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 10368,
+        "endFrame": 10390
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-3",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "南京国民政府成立",
+      "startFrame": 10408,
+      "endFrame": 10463,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 10408,
+        "endFrame": 10446
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-4",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "与武汉国民政府相对立",
+      "startFrame": 10463,
+      "endFrame": 10530,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 10463,
+        "endFrame": 10511
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-5",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "这就是宁汉分裂的",
+      "startFrame": 10530,
+      "endFrame": 10564,
+      "trackId": "nanjing-government",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 10530,
+        "endFrame": 10564
+      }
+    },
+    {
+      "id": "nanjing-government-caption-6",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "重要局面",
+      "startFrame": 10564,
+      "endFrame": 10601,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 10564,
+        "endFrame": 10582
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-7",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "宁是南京",
+      "startFrame": 10601,
+      "endFrame": 10655,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 10601,
+        "endFrame": 10638
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-8",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "汉是武汉",
+      "startFrame": 10655,
+      "endFrame": 10713,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 10655,
+        "endFrame": 10698
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-9",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "不过",
+      "startFrame": 10713,
+      "endFrame": 10743,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 10713,
+        "endFrame": 10729
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-10",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "这不是南京属于国民党",
+      "startFrame": 10743,
+      "endFrame": 10804,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 10743,
+        "endFrame": 10788
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-11",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "武汉属于共产党的",
+      "startFrame": 10804,
+      "endFrame": 10839,
+      "trackId": "nanjing-government",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 10804,
+        "endFrame": 10839
+      }
+    },
+    {
+      "id": "nanjing-government-caption-12",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "简单划分",
+      "startFrame": 10839,
+      "endFrame": 10873,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 10839,
+        "endFrame": 10859
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-13",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "武汉仍由国民党方面主持",
+      "startFrame": 10873,
+      "endFrame": 10940,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 10873,
+        "endFrame": 10927
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-14",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "也仍与共产党合作",
+      "startFrame": 10940,
+      "endFrame": 11004,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 10940,
+        "endFrame": 10978
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-15",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "北洋北京政府同样存在",
+      "startFrame": 11004,
+      "endFrame": 11074,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 11004,
+        "endFrame": 11056
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "nanjing-government-caption-16",
+      "nodeId": "nanjing",
+      "shotId": "nanjing-government",
+      "text": "南京更没有在成立当天就控制全国",
+      "startFrame": 11074,
+      "endFrame": 11182,
+      "trackId": "nanjing-government",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 11074,
+        "endFrame": 11154
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-0",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "因此",
+      "startFrame": 11189,
+      "endFrame": 11215,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 11189,
+        "endFrame": 11202
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-1",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "四月的",
+      "startFrame": 11215,
+      "endFrame": 11229,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 11215,
+        "endFrame": 11229
+      }
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-2",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "上海决裂还不能直接等同于整个合作关系已经全面结束",
+      "startFrame": 11229,
+      "endFrame": 11398,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 11229,
+        "endFrame": 11378
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-3",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "共产党在武汉继续活动",
+      "startFrame": 11398,
+      "endFrame": 11466,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 11398,
+        "endFrame": 11451
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-4",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "也继续争取合作",
+      "startFrame": 11466,
+      "endFrame": 11515,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 11466,
+        "endFrame": 11502
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-5",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "但武汉阵营内部",
+      "startFrame": 11515,
+      "endFrame": 11562,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 11515,
+        "endFrame": 11554
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-6",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "工农运动",
+      "startFrame": 11562,
+      "endFrame": 11592,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 11562,
+        "endFrame": 11583
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-7",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "军政力量和党派关系同样紧张",
+      "startFrame": 11592,
+      "endFrame": 11673,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 11592,
+        "endFrame": 11659
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-8",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "上海发生的",
+      "startFrame": 11673,
+      "endFrame": 11697,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 11673,
+        "endFrame": 11697
+      }
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-9",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "事已经暴露出",
+      "startFrame": 11697,
+      "endFrame": 11740,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 11697,
+        "endFrame": 11740
+      }
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-10",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "这套合作安排的",
+      "startFrame": 11740,
+      "endFrame": 11767,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 11740,
+        "endFrame": 11767
+      }
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-11",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "危险",
+      "startFrame": 11767,
+      "endFrame": 11805,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 11767,
+        "endFrame": 11779
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-12",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "武汉并没有成为永久可靠的",
+      "startFrame": 11805,
+      "endFrame": 11874,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 11805,
+        "endFrame": 11874
+      }
+    },
+    {
+      "id": "wuhan-continuing-cooperation-caption-13",
+      "nodeId": "wuhan",
+      "shotId": "wuhan-continuing-cooperation",
+      "text": "保护",
+      "startFrame": 11874,
+      "endFrame": 11912,
+      "trackId": "wuhan-continuing-cooperation",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 11874,
+        "endFrame": 11885
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-0",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "到了7月13日",
+      "startFrame": 11918,
+      "endFrame": 11962,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 11918,
+        "endFrame": 11952
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-1",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "中共中央发表宣言",
+      "startFrame": 11962,
+      "endFrame": 12023,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 11962,
+        "endFrame": 12002
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-2",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "决定撤回参加国民政府的",
+      "startFrame": 12023,
+      "endFrame": 12074,
+      "trackId": "july-break",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 12023,
+        "endFrame": 12074
+      }
+    },
+    {
+      "id": "july-break-caption-3",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "共产党员",
+      "startFrame": 12074,
+      "endFrame": 12109,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 12074,
+        "endFrame": 12095
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-4",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "同时仍愿与国民党内革命分子合作",
+      "startFrame": 12109,
+      "endFrame": 12210,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 12109,
+        "endFrame": 12196
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-5",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "两天后",
+      "startFrame": 12210,
+      "endFrame": 12241,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 12210,
+        "endFrame": 12232
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-6",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "7月15日",
+      "startFrame": 12241,
+      "endFrame": 12286,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 12241,
+        "endFrame": 12263
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-7",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "汪精卫主持国民党中央常委会扩大会议",
+      "startFrame": 12286,
+      "endFrame": 12390,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 12286,
+        "endFrame": 12368
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-8",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "正式与共产党决裂",
+      "startFrame": 12390,
+      "endFrame": 12445,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 12390,
+        "endFrame": 12430
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-9",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "中共党史把这个节点视为第一次国共合作全面破裂的",
+      "startFrame": 12445,
+      "endFrame": 12565,
+      "trackId": "july-break",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 12445,
+        "endFrame": 12565
+      }
+    },
+    {
+      "id": "july-break-caption-10",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "标志",
+      "startFrame": 12565,
+      "endFrame": 12605,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 12565,
+        "endFrame": 12577
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-11",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "从上海到武汉",
+      "startFrame": 12605,
+      "endFrame": 12649,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 12605,
+        "endFrame": 12640
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-12",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "相隔三个月",
+      "startFrame": 12649,
+      "endFrame": 12692,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 12649,
+        "endFrame": 12675
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "july-break-caption-13",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "合作是在",
+      "startFrame": 12692,
+      "endFrame": 12711,
+      "trackId": "july-break",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 12692,
+        "endFrame": 12711
+      }
+    },
+    {
+      "id": "july-break-caption-14",
+      "nodeId": "wuhan",
+      "shotId": "july-break",
+      "text": "这一连串选择中瓦解的",
+      "startFrame": 12711,
+      "endFrame": 12790,
+      "trackId": "july-break",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 12711,
+        "endFrame": 12763
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "armed-resistance-turn-caption-0",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "失去公开合作的",
+      "startFrame": 12795,
+      "endFrame": 12828,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 12795,
+        "endFrame": 12828
+      }
+    },
+    {
+      "id": "armed-resistance-turn-caption-1",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "空间之后",
+      "startFrame": 12828,
+      "endFrame": 12857,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 12828,
+        "endFrame": 12850
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "armed-resistance-turn-caption-2",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "共产党开始调整斗争方式",
+      "startFrame": 12857,
+      "endFrame": 12931,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 12857,
+        "endFrame": 12915
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "armed-resistance-turn-caption-3",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "8月1日",
+      "startFrame": 12931,
+      "endFrame": 12963,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 12931,
+        "endFrame": 12949
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "armed-resistance-turn-caption-4",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "南昌起义发动",
+      "startFrame": 12963,
+      "endFrame": 13009,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 12963,
+        "endFrame": 12996
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "armed-resistance-turn-caption-5",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "8月7日",
+      "startFrame": 13009,
+      "endFrame": 13040,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 13009,
+        "endFrame": 13029
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "armed-resistance-turn-caption-6",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "中共中央在汉口召开紧急会议",
+      "startFrame": 13040,
+      "endFrame": 13125,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 13040,
+        "endFrame": 13101
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "armed-resistance-turn-caption-7",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "确立土地革命和武装反抗国民党统治的",
+      "startFrame": 13125,
+      "endFrame": 13216,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 13125,
+        "endFrame": 13216
+      }
+    },
+    {
+      "id": "armed-resistance-turn-caption-8",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "方针",
+      "startFrame": 13216,
+      "endFrame": 13241,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 13216,
+        "endFrame": 13227
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "armed-resistance-turn-caption-9",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "这与四一二有着历史联系",
+      "startFrame": 13241,
+      "endFrame": 13306,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 13241,
+        "endFrame": 13292
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "armed-resistance-turn-caption-10",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "但并不是十二日当天就自动产生的",
+      "startFrame": 13306,
+      "endFrame": 13379,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 13306,
+        "endFrame": 13379
+      }
+    },
+    {
+      "id": "armed-resistance-turn-caption-11",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "结果",
+      "startFrame": 13379,
+      "endFrame": 13407,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 13379,
+        "endFrame": 13390
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "armed-resistance-turn-caption-12",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "组织需要重新集结",
+      "startFrame": 13407,
+      "endFrame": 13466,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 13407,
+        "endFrame": 13443
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "armed-resistance-turn-caption-13",
+      "nodeId": "armed-turn",
+      "shotId": "armed-resistance-turn",
+      "text": "战略也经历了争论和挫折",
+      "startFrame": 13466,
+      "endFrame": 13550,
+      "trackId": "armed-resistance-turn",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 13466,
+        "endFrame": 13524
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-0",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "回头看",
+      "startFrame": 13556,
+      "endFrame": 13570,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 13556,
+        "endFrame": 13570
+      }
+    },
+    {
+      "id": "responsibility-and-response-caption-1",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "这场危机",
+      "startFrame": 13570,
+      "endFrame": 13606,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 13570,
+        "endFrame": 13591
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-2",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "行动责任和应对得失必须分别讨论",
+      "startFrame": 13606,
+      "endFrame": 13719,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 13606,
+        "endFrame": 13695
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-3",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "发动和执行袭击",
+      "startFrame": 13719,
+      "endFrame": 13767,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 13719,
+        "endFrame": 13759
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-4",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "缴械",
+      "startFrame": 13767,
+      "endFrame": 13794,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 13767,
+        "endFrame": 13781
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-5",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "捕杀的",
+      "startFrame": 13794,
+      "endFrame": 13808,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 13794,
+        "endFrame": 13808
+      }
+    },
+    {
+      "id": "responsibility-and-response-caption-6",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "人",
+      "startFrame": 13808,
+      "endFrame": 13830,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 13808,
+        "endFrame": 13813
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-7",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "要为",
+      "startFrame": 13830,
+      "endFrame": 13838,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 13830,
+        "endFrame": 13838
+      }
+    },
+    {
+      "id": "responsibility-and-response-caption-8",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "这些行动负责",
+      "startFrame": 13838,
+      "endFrame": 13882,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 13838,
+        "endFrame": 13865
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-9",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "共产党领导层和共产国际怎样判断风险",
+      "startFrame": 13882,
+      "endFrame": 13984,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 13882,
+        "endFrame": 13970
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-10",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "为什么仍争取合作",
+      "startFrame": 13984,
+      "endFrame": 14045,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 13984,
+        "endFrame": 14023
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-11",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "抵抗准备是否充分",
+      "startFrame": 14045,
+      "endFrame": 14103,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 14045,
+        "endFrame": 14086
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-12",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "则是另一组问题",
+      "startFrame": 14103,
+      "endFrame": 14148,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 14103,
+        "endFrame": 14133
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-13",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "研究受镇压一方的",
+      "startFrame": 14148,
+      "endFrame": 14184,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 14148,
+        "endFrame": 14184
+      }
+    },
+    {
+      "id": "responsibility-and-response-caption-14",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "判断失误",
+      "startFrame": 14184,
+      "endFrame": 14211,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 14184,
+        "endFrame": 14202
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "responsibility-and-response-caption-15",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "并不会转移实施暴力一方的",
+      "startFrame": 14211,
+      "endFrame": 14258,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 14211,
+        "endFrame": 14258
+      }
+    },
+    {
+      "id": "responsibility-and-response-caption-16",
+      "nodeId": "assessment",
+      "shotId": "responsibility-and-response",
+      "text": "责任",
+      "startFrame": 14258,
+      "endFrame": 14295,
+      "trackId": "responsibility-and-response",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 14258,
+        "endFrame": 14267
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-0",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "四一二的",
+      "startFrame": 14300,
+      "endFrame": 14318,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1"
+      ],
+      "observedRange": {
+        "startFrame": 14300,
+        "endFrame": 14318
+      }
+    },
+    {
+      "id": "historical-conclusion-caption-1",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "转折",
+      "startFrame": 14318,
+      "endFrame": 14346,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c2"
+      ],
+      "observedRange": {
+        "startFrame": 14318,
+        "endFrame": 14333
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-2",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "在于它用暴力改变了上海的",
+      "startFrame": 14346,
+      "endFrame": 14404,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c3"
+      ],
+      "observedRange": {
+        "startFrame": 14346,
+        "endFrame": 14404
+      }
+    },
+    {
+      "id": "historical-conclusion-caption-3",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "政治参与和武装控制",
+      "startFrame": 14404,
+      "endFrame": 14479,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 14404,
+        "endFrame": 14454
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-4",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "合作中的",
+      "startFrame": 14479,
+      "endFrame": 14496,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 14479,
+        "endFrame": 14496
+      }
+    },
+    {
+      "id": "historical-conclusion-caption-5",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "权力分歧",
+      "startFrame": 14496,
+      "endFrame": 14535,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6"
+      ],
+      "observedRange": {
+        "startFrame": 14496,
+        "endFrame": 14519
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-6",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "最终由极不对称的",
+      "startFrame": 14535,
+      "endFrame": 14574,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 14535,
+        "endFrame": 14574
+      }
+    },
+    {
+      "id": "historical-conclusion-caption-7",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "武力来裁决",
+      "startFrame": 14574,
+      "endFrame": 14612,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8"
+      ],
+      "observedRange": {
+        "startFrame": 14574,
+        "endFrame": 14597
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-8",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "此后",
+      "startFrame": 14612,
+      "endFrame": 14650,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 14612,
+        "endFrame": 14624
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-9",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "南京权力中心形成",
+      "startFrame": 14650,
+      "endFrame": 14710,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10"
+      ],
+      "observedRange": {
+        "startFrame": 14650,
+        "endFrame": 14690
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-10",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "武汉也在7月走向分共",
+      "startFrame": 14710,
+      "endFrame": 14769,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 14710,
+        "endFrame": 14756
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-11",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "把",
+      "startFrame": 14769,
+      "endFrame": 14774,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 14769,
+        "endFrame": 14774
+      }
+    },
+    {
+      "id": "historical-conclusion-caption-12",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "这些具体行动连起来",
+      "startFrame": 14774,
+      "endFrame": 14826,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 14774,
+        "endFrame": 14817
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-13",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "我们才能理解",
+      "startFrame": 14826,
+      "endFrame": 14867,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 14826,
+        "endFrame": 14853
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-14",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "这场决裂来得剧烈",
+      "startFrame": 14867,
+      "endFrame": 14936,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15"
+      ],
+      "observedRange": {
+        "startFrame": 14867,
+        "endFrame": 14921
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-15",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "却不是一天完成",
+      "startFrame": 14936,
+      "endFrame": 14997,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c16"
+      ],
+      "observedRange": {
+        "startFrame": 14936,
+        "endFrame": 14968
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-16",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "它改变的不只是党派关系",
+      "startFrame": 14997,
+      "endFrame": 15084,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 14997,
+        "endFrame": 15062
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-17",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "还有普通人能否组织",
+      "startFrame": 15084,
+      "endFrame": 15150,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18"
+      ],
+      "observedRange": {
+        "startFrame": 15084,
+        "endFrame": 15144
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "historical-conclusion-caption-18",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "表达和保护自己的",
+      "startFrame": 15150,
+      "endFrame": 15200,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c19"
+      ],
+      "observedRange": {
+        "startFrame": 15150,
+        "endFrame": 15200
+      }
+    },
+    {
+      "id": "historical-conclusion-caption-19",
+      "nodeId": "assessment",
+      "shotId": "historical-conclusion",
+      "text": "处境",
+      "startFrame": 15200,
+      "endFrame": 15239,
+      "trackId": "historical-conclusion",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c20"
+      ],
+      "observedRange": {
+        "startFrame": 15200,
+        "endFrame": 15211
+      },
+      "displayEndOrigin": "reconstructed_design"
+    }
+  ]
+}

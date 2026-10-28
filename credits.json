@@ -1,0 +1,659 @@
+{
+  "media": [
+    {
+      "id": "chiang",
+      "kind": "portrait",
+      "title": "蒋介石，1925年",
+      "subject": "蒋介石的身份照",
+      "createdDate": "1925年（来源说明与第二次东征相关）",
+      "eventDate": "1927年3—7月；核心事件为4月12日前后",
+      "creator": "作者不详；经维基共享资源转引",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek1925.jpg",
+      "license": "PD-China；据共享资源页面的公有领域标注。首次发表链未独立追溯。",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek1925.jpg#Licensing",
+      "caption": "人物身份参考，早于1927年政变，非政变现场。",
+      "derivation": "本作保留下载原始字节；不重新上色、修复或裁切；网页按比例缩放。扫描及既有处理以来源页为准。",
+      "evidenceLimit": "不能证明1927年任何现场行动、命令内容或心理状态。",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Chiang_Kai-shek1925.jpg",
+      "reviewStatus": "已核对当前文件说明与本稿图注；身份用途和未决项见证据边界。",
+      "file": {
+        "path": "media/chiang.jpg",
+        "sha256": "2532bb5481124ae3af46daf91ed38fce64fc696f0c13389668daf4c32629ce72"
+      }
+    },
+    {
+      "id": "chen",
+      "kind": "portrait",
+      "title": "陈独秀，来源标注1919年",
+      "subject": "陈独秀肖像",
+      "createdDate": "来源标注1919年1月；1941年书刊收录，2011年扫描",
+      "eventDate": "1927年3—7月；核心事件为4月12日前后",
+      "creator": "原摄影者不详；《最新支那要人传》（朝日新闻社，1941）扫描",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chen_Duxiu.jpg",
+      "license": "PD-scan／PD-Japan-oldphoto；据共享资源页面",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Chen_Duxiu.jpg#Licensing",
+      "caption": "用于识别人像，拍摄早于本事件；不把1941年书刊出版日当拍摄日。",
+      "derivation": "本作保留下载原始字节；不重新上色、修复或裁切；网页按比例缩放。扫描及既有处理以来源页为准。",
+      "evidenceLimit": "来源所列1919年日期未与原始底片核对；非1927年现场。",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Chen_Duxiu.jpg",
+      "reviewStatus": "已核对当前文件说明与本稿图注；身份用途和未决项见证据边界。",
+      "file": {
+        "path": "media/chen.jpg",
+        "sha256": "1aac5ecd9d1aacf0748360688646eddb2c96c540103eaf82de87587b839b9970"
+      }
+    },
+    {
+      "id": "zhou",
+      "kind": "portrait",
+      "title": "周恩来，1924年",
+      "subject": "黄埔军校时期的周恩来",
+      "createdDate": "1924年（来源页标注）",
+      "eventDate": "1927年3—7月；核心事件为4月12日前后",
+      "creator": "作者不详；共享资源转引新华网旧页",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1924_Zhou_Enlai_in_National_Revolutionary_Army_uniform2.jpg",
+      "license": "PD-China；据共享资源页面。未独立补齐其美国版权模板。",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:1924_Zhou_Enlai_in_National_Revolutionary_Army_uniform2.jpg#Licensing",
+      "caption": "用于识别周恩来。采用黑白版本，不使用后期上色版本。",
+      "derivation": "本作保留下载原始字节；不重新上色、修复或裁切；网页按比例缩放。扫描及既有处理以来源页为准。",
+      "evidenceLimit": "早于1927年起义；不能作为指挥现场照片。",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/1924_Zhou_Enlai_in_National_Revolutionary_Army_uniform2.jpg",
+      "reviewStatus": "已核对当前文件说明与本稿图注；身份用途和未决项见证据边界。",
+      "file": {
+        "path": "media/zhou.jpg",
+        "sha256": "5c9f287472a5f230d017c1f67be3d10eaefd13b2c02a2af75019b9a4359577fe"
+      }
+    },
+    {
+      "id": "wang",
+      "kind": "portrait",
+      "title": "汪精卫，拍摄日期未明",
+      "subject": "汪精卫肖像",
+      "createdDate": "不详；1994年《中国近代珍藏图片库·蒋介石与国民政府（中）》收录",
+      "eventDate": "1927年3—7月；核心事件为4月12日前后",
+      "creator": "作者不详；中国第二历史档案馆图片集，经共享资源转引",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Wang_Jingwei.jpg",
+      "license": "PD-China；据共享资源页面的公有领域标注。",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Wang_Jingwei.jpg#Licensing",
+      "caption": "仅作身份识别，不称为1927年照片，不从服装推定具体拍摄年份。",
+      "derivation": "本作保留下载原始字节；不重新上色、修复或裁切；网页按比例缩放。扫描及既有处理以来源页为准。",
+      "evidenceLimit": "拍摄日期、原摄影者和首次发表信息未在本轮查明，不能证明其1927年所在地点。",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Portrait_of_Wang_Jingwei.jpg",
+      "reviewStatus": "已核对当前文件说明与本稿图注；身份用途和未决项见证据边界。",
+      "file": {
+        "path": "media/wang.jpg",
+        "sha256": "3d24e69ba606691e3fd5a80e8bc5a27ad7e236ade5b2eda680fceff98e1e52c2"
+      }
+    },
+    {
+      "id": "shouhua",
+      "kind": "portrait",
+      "title": "汪寿华，1924年海参崴留影",
+      "subject": "汪寿华肖像",
+      "createdDate": "1924年5月15日（共享资源说明）",
+      "eventDate": "1927年3—7月；核心事件为4月12日前后",
+      "creator": "作者不详；共享资源转引旧人物资料页",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wang_Shouhua.jpg",
+      "license": "PD-China；据共享资源页面的公有领域标注。",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Wang_Shouhua.jpg#Licensing",
+      "caption": "用于识别工会领导者汪寿华，与汪精卫区分；保留整图。",
+      "derivation": "本作保留下载原始字节；不重新上色、修复或裁切；网页按比例缩放。扫描及既有处理以来源页为准。",
+      "evidenceLimit": "早于1927年政变，不是赴约或遇害现场；确切照片日期依赖来源说明。",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Wang_Shouhua.jpg",
+      "reviewStatus": "已核对当前文件说明与本稿图注；身份用途和未决项见证据边界。",
+      "file": {
+        "path": "media/shouhua.jpg",
+        "sha256": "33829711d077b0d7a1ea42dc9f2361552bb8e74c780af660157a650e8d26101c"
+      }
+    },
+    {
+      "id": "procession",
+      "kind": "photo",
+      "title": "1927年上海工人与学生游行",
+      "subject": "上海华界内的工人与学生队伍",
+      "createdDate": "1927年，具体日月未明",
+      "eventDate": "1927年3—7月；核心事件为4月12日前后",
+      "creator": "North-China Daily News；China in Chaos: A Survey of Recent Events（1927）",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:China_In_Chaos_-_DENSE_MASS_OF_LABOURERS_AND_STUDENTS_IN_PROCESSION_IN_THE_SHANGHAI_NATIVE_CITY_AFTER_ARRIVAL_OF_SOUTHERN_LEADERS.jpg",
+      "license": "PD-US-pre1931；据共享资源标注，原刊1927年。",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:China_In_Chaos_-_DENSE_MASS_OF_LABOURERS_AND_STUDENTS_IN_PROCESSION_IN_THE_SHANGHAI_NATIVE_CITY_AFTER_ARRIVAL_OF_SOUTHERN_LEADERS.jpg#Licensing",
+      "caption": "原说明指向南方领导人抵达后的游行；用于呈现当时群众活动，不标作4月13日请愿。",
+      "derivation": "本作保留下载原始字节；不重新上色、修复或裁切；网页按比例缩放。扫描及既有处理以来源页为准。",
+      "evidenceLimit": "不能据此确定十二日或十三日现场，也不据图推算参加人数、武器数或人们政治立场。",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/China_In_Chaos_-_DENSE_MASS_OF_LABOURERS_AND_STUDENTS_IN_PROCESSION_IN_THE_SHANGHAI_NATIVE_CITY_AFTER_ARRIVAL_OF_SOUTHERN_LEADERS.jpg",
+      "reviewStatus": "已核对当前文件说明与本稿图注；身份用途和未决项见证据边界。",
+      "file": {
+        "path": "media/procession.jpg",
+        "sha256": "236e12edb1b73c90319547c4befbb7642516064175df524fd2e69af7cf4e31e3"
+      }
+    },
+    {
+      "id": "arrests",
+      "kind": "photo",
+      "title": "来源标作四一二期间的上海拘捕场景",
+      "subject": "被军警押解的人群",
+      "createdDate": "1927年（来源标注），具体日期未明",
+      "eventDate": "1927年3—7月；核心事件为4月12日前后",
+      "creator": "作者不详；共享资源转引上海对外经贸大学专题页",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Communists_Being_Arrested_in_the_Shanghai_Massacre.jpg",
+      "license": "PD-China及PD-US-pre1931；据共享资源页面。",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Communists_Being_Arrested_in_the_Shanghai_Massacre.jpg#Licensing",
+      "caption": "作为镇压场景材料展示，采用下载原字节，未另行裁切或上色。",
+      "derivation": "本作保留下载原始字节；不重新上色、修复或裁切；网页按比例缩放。扫描及既有处理以来源页为准。",
+      "evidenceLimit": "原始摄影机构和画中人物身份未追溯；仅标作来源归于四一二期间的拘捕场景，不能证明被捕者姓名、结局或精确时间。",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Communists_Being_Arrested_in_the_Shanghai_Massacre.jpg",
+      "reviewStatus": "已核对当前文件说明与本稿图注；身份用途和未决项见证据边界。",
+      "file": {
+        "path": "media/arrests.jpg",
+        "sha256": "762b02edd266dc19c13903b050348c6ab2400fe6d635a4a5fb6409197848eec3"
+      }
+    },
+    {
+      "id": "strike-order",
+      "kind": "document",
+      "title": "上海总工会总同盟罢工令",
+      "subject": "总同盟罢工令原件图",
+      "createdDate": "1927年2月19日",
+      "eventDate": "1927年2—4月",
+      "creator": "上海总工会；原件图来源见档案馆专题",
+      "sourceUrl": "https://www.shda.gov.cn/dawh/hsda/202608/t20260803_76637.html",
+      "license": "来源页未列单图复用许可；本次用于本地历史研究与讲解，未核定公开使用范围",
+      "licenseUrl": "https://www.shda.gov.cn/dawh/hsda/202608/t20260803_76637.html",
+      "caption": "第二次起义前的动员文书，不是第三次起义的命令。",
+      "derivation": "保留下载原始字节和整幅画面，仅等比显示，不上色、不修复、不伪造原件。",
+      "evidenceLimit": "第二次起义前的动员文书，不是第三次起义的命令。；原件馆藏编号、原始发表链和数字图像权利未在本轮逐项核实。",
+      "downloadUrl": "https://www.shda.gov.cn/office-utils-data/202608/20260803/202608033ae25cb9.001.jpeg",
+      "reviewStatus": "6.1 Terra逐张查看；图说/日期依据来源页，视觉不充当独立身份鉴定。",
+      "file": {
+        "path": "media/strike-order.jpg",
+        "sha256": "7b8750e85ec2eb2efc9a23b4dedd645f65862d86ac5d66f4d7b31d6bbe2ad88e"
+      }
+    },
+    {
+      "id": "postal-workers",
+      "kind": "photo",
+      "title": "邮务工人乘车赴闸北参战",
+      "subject": "卡车上的邮务工人",
+      "createdDate": "1927年3月第三次起义期间，来源未单列摄影日",
+      "eventDate": "1927年2—4月",
+      "creator": "原摄影者未列；专题图说标作邮务工人赴闸北",
+      "sourceUrl": "https://www.shda.gov.cn/dawh/hsda/202608/t20260803_76637.html",
+      "license": "来源页未列单图复用许可；本次用于本地历史研究与讲解，未核定公开使用范围",
+      "licenseUrl": "https://www.shda.gov.cn/dawh/hsda/202608/t20260803_76637.html",
+      "caption": "官方图说归于第三次起义，照片为乘车者，不能据画面独立确认每人身份。",
+      "derivation": "保留下载原始字节和整幅画面，仅等比显示，不上色、不修复、不伪造原件。",
+      "evidenceLimit": "官方图说归于第三次起义，照片为乘车者，不能据画面独立确认每人身份。；原件馆藏编号、原始发表链和数字图像权利未在本轮逐项核实。",
+      "downloadUrl": "https://www.shda.gov.cn/office-utils-data/202608/20260803/202608033ae25cb9.004.jpeg",
+      "reviewStatus": "6.1 Terra逐张查看；图说/日期依据来源页，视觉不充当独立身份鉴定。",
+      "file": {
+        "path": "media/postal-workers.jpg",
+        "sha256": "97e000cf56123d261d6781d0b471742f6a98192b0fc3b2cac0e078b9b361f15e"
+      }
+    },
+    {
+      "id": "workers-march",
+      "kind": "photo",
+      "title": "行进中的工人纠察队",
+      "subject": "持枪队伍在街道行进",
+      "createdDate": "1927年3月第三次起义期间，来源未单列摄影日",
+      "eventDate": "1927年2—4月",
+      "creator": "原摄影者未列；专题图说标作行进中的工人纠察队",
+      "sourceUrl": "https://www.shda.gov.cn/dawh/hsda/202608/t20260803_76637.html",
+      "license": "来源页未列单图复用许可；本次用于本地历史研究与讲解，未核定公开使用范围",
+      "licenseUrl": "https://www.shda.gov.cn/dawh/hsda/202608/t20260803_76637.html",
+      "caption": "这是行进场景，不是升旗仪式；旧下载名guild-flag不作为身份依据。",
+      "derivation": "保留下载原始字节和整幅画面，仅等比显示，不上色、不修复、不伪造原件。",
+      "evidenceLimit": "这是行进场景，不是升旗仪式；旧下载名guild-flag不作为身份依据。；原件馆藏编号、原始发表链和数字图像权利未在本轮逐项核实。",
+      "downloadUrl": "https://www.shda.gov.cn/office-utils-data/202608/20260803/202608033ae25cb9.005.jpeg",
+      "reviewStatus": "6.1 Terra逐张查看；图说/日期依据来源页，视觉不充当独立身份鉴定。",
+      "file": {
+        "path": "media/workers-march.jpg",
+        "sha256": "a08753a50ab914b475ffb2ea2a913a19b24a50da228523e6f01550fadc277253"
+      }
+    },
+    {
+      "id": "raising-flag-1927",
+      "kind": "photo",
+      "title": "湖州会馆升旗典礼",
+      "subject": "上海总工会举行升旗典礼的资料图",
+      "createdDate": "1927年3月27日（专题图说）",
+      "eventDate": "1927年2—4月",
+      "creator": "原摄影者未列；来源上海档案信息网专题",
+      "sourceUrl": "https://www.shda.gov.cn/dawh/hsda/202608/t20260803_76637.html",
+      "license": "来源页未列单图复用许可；本次用于本地历史研究与讲解，未核定公开使用范围",
+      "licenseUrl": "https://www.shda.gov.cn/dawh/hsda/202608/t20260803_76637.html",
+      "caption": "身份和日期依据专题图说；不是四月十二日现场。",
+      "derivation": "保留下载原始字节和整幅画面，仅等比显示，不上色、不修复、不伪造原件。",
+      "evidenceLimit": "身份和日期依据专题图说；不是四月十二日现场。；原件馆藏编号、原始发表链和数字图像权利未在本轮逐项核实。",
+      "downloadUrl": "https://www.shda.gov.cn/office-utils-data/202608/20260803/202608033ae25cb9.006.jpeg",
+      "reviewStatus": "6.1 Terra逐张查看；图说/日期依据来源页，视觉不充当独立身份鉴定。",
+      "file": {
+        "path": "media/raising-flag-1927.jpg",
+        "sha256": "a9fad7c64485e28b75c2b0b4b05daa4735a7f976b09bef5b113ff532692b0dbf"
+      }
+    },
+    {
+      "id": "shouhua-flag",
+      "kind": "photo",
+      "title": "汪寿华授旗并讲话的资料图",
+      "subject": "台上多人及台下集会群众",
+      "createdDate": "起义胜利后；该图说明未单列确切日期",
+      "eventDate": "1927年2—4月",
+      "creator": "原摄影者未列；专题图说指认为汪寿华授旗并讲话",
+      "sourceUrl": "https://www.shda.gov.cn/dawh/hsda/202608/t20260803_76637.html",
+      "license": "来源页未列单图复用许可；本次用于本地历史研究与讲解，未核定公开使用范围",
+      "licenseUrl": "https://www.shda.gov.cn/dawh/hsda/202608/t20260803_76637.html",
+      "caption": "原图可见集会和旗帜，不能单凭画面辨认每个人或具体授旗瞬间。",
+      "derivation": "保留下载原始字节和整幅画面，仅等比显示，不上色、不修复、不伪造原件。",
+      "evidenceLimit": "原图可见集会和旗帜，不能单凭画面辨认每个人或具体授旗瞬间。；原件馆藏编号、原始发表链和数字图像权利未在本轮逐项核实。",
+      "downloadUrl": "https://www.shda.gov.cn/office-utils-data/202608/20260803/202608033ae25cb9.007.jpeg",
+      "reviewStatus": "6.1 Terra逐张查看；图说/日期依据来源页，视觉不充当独立身份鉴定。",
+      "file": {
+        "path": "media/shouhua-flag.jpg",
+        "sha256": "a1f2cf7821070178cfd3f919533338cc60968afa559a733de909f906307272b7"
+      }
+    },
+    {
+      "id": "guild-1927",
+      "kind": "photo",
+      "title": "1927年湖州会馆外的工人武装",
+      "subject": "湖州会馆外的密集人群、旗帜及工人武装",
+      "createdDate": "1927年3月27日",
+      "eventDate": "1927年3—4月；现代对照见材料日期",
+      "creator": "摄影者未明；George Johnson Collection；Special Collections, University of Bristol Library，GJ01-109",
+      "sourceUrl": "https://www.hpcbristol.sjtu.edu.cn/visual/gj01-109",
+      "license": "CC BY-NC-ND 4.0；按HPC下载规则用于非商业研究教育",
+      "licenseUrl": "https://www.hpcbristol.sjtu.edu.cn/license/what-you-can-and-cannot-do-downloads",
+      "caption": "地点与日期据HPC研究标注；现代场馆为遗址纪念空间，不能据对比声称精确同机位或完整原建筑保存。",
+      "derivation": "保留原JPEG整图，按比例显示；不作裁切、颜色调整或修复。",
+      "evidenceLimit": "地点与日期据HPC研究标注；现代场馆为遗址纪念空间，不能据对比声称精确同机位或完整原建筑保存。",
+      "downloadUrl": "https://www.hpcbristol.sjtu.edu.cn/image-library/large/gj01-109.jpg",
+      "reviewStatus": "已核对页面说明与原图；现代照仅按报道日期标注，未作EXIF拍摄日判断。",
+      "file": {
+        "path": "media/guild-1927.jpg",
+        "sha256": "3ee140eab4900f4da336b4c1d3fe4aa80c32b9c7106e9707eb6f16cb83952bbf"
+      }
+    },
+    {
+      "id": "guild-2021",
+      "kind": "photo",
+      "title": "湖州会馆遗址纪念场馆门头：2021年报道配图",
+      "subject": "复建牌楼的门头上半部",
+      "createdDate": "2021年4月29日报道配图；单图精确摄影日未列",
+      "eventDate": "1927年3—4月；现代对照见材料日期",
+      "creator": "原摄影者未列；静安区政府原文引用上海观察图片",
+      "sourceUrl": "https://www.jingan.gov.cn/rmtzx/003008/003008006/20210429/6830442c-056f-4951-ac80-6d2a1677f1c5.html",
+      "license": "来源未列单图开放许可；本次仅本地研究与对照，公开使用范围未核定",
+      "licenseUrl": "https://www.jingan.gov.cn/rmtzx/003008/003008006/20210429/6830442c-056f-4951-ac80-6d2a1677f1c5.html",
+      "caption": "1932年大部分旧建筑毁损，2020年修缮布展、制作门头；不是1927年原建筑完整保存，也不是2026年实拍。",
+      "derivation": "保留原JPEG整图，按比例显示；不作裁切、颜色调整或修复。",
+      "evidenceLimit": "1932年大部分旧建筑毁损，2020年修缮布展、制作门头；不是1927年原建筑完整保存，也不是2026年实拍。",
+      "downloadUrl": "https://images.shobserver.com/news/690_390/2021/4/29/d8de2a71554245c3b4ae67b3102c1942.jpeg",
+      "reviewStatus": "已核对页面说明与原图；现代照仅按报道日期标注，未作EXIF拍摄日判断。",
+      "file": {
+        "path": "media/guild-2021.jpg",
+        "sha256": "e8028e6fdf9caa9e94f2e051d4536c3d7fe39c9e5acde04b885da4b42a810d21"
+      }
+    },
+    {
+      "id": "du",
+      "kind": "portrait",
+      "title": "杜月笙：1940年代肖像",
+      "subject": "杜月笙单人半身肖像",
+      "createdDate": "1940年代（共享资源标注）",
+      "eventDate": "1927年3—4月；现代对照见材料日期",
+      "creator": "摄影者不详；共享资源转引旧新闻页",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Du_Yuesheng2.jpg",
+      "license": "PD-China；按共享资源文件页标注",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Du_Yuesheng2.jpg#Licensing",
+      "caption": "晚于1927年，只用于身份识别；不能证明1927年邀约、遇害现场或具体行为。",
+      "derivation": "保留原JPEG整图，按比例显示；不作裁切、颜色调整或修复。",
+      "evidenceLimit": "晚于1927年，只用于身份识别；不能证明1927年邀约、遇害现场或具体行为。",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Du_Yuesheng2.jpg",
+      "reviewStatus": "已核对页面说明与原图；现代照仅按报道日期标注，未作EXIF拍摄日判断。",
+      "file": {
+        "path": "media/du.jpg",
+        "sha256": "9e7a6f04fa0ff139925ffde153d1bb4c67a82fbd3f393284cdea2930bb8a156e"
+      }
+    },
+    {
+      "id": "nanjing-1927",
+      "kind": "photo",
+      "title": "1927年4月18日南京定都庆典合影",
+      "subject": "国民党人物在南京庆典合影",
+      "createdDate": "1927年4月18日",
+      "eventDate": "1927年4月18日",
+      "creator": "傅秉常（Fu Bingchang）；藏C. H. Foo与Y. W. Foo，University of Bristol Historical Photographs of China，Fu-n051",
+      "sourceUrl": "https://hpcbristol.net/visual/Fu-n051",
+      "license": "CC BY-NC-ND 4.0；本地研究预览。商业使用须另获权利人许可。",
+      "licenseUrl": "https://hpcbristol.net/re-use",
+      "caption": "1927年4月18日南京定都庆典人物合影，HPC Fu-n051。",
+      "derivation": "完整原图等比例缩放，不裁切、不修图、不使用焦点放大。",
+      "evidenceLimit": "依据档案说明识别日期、活动及人物，不凭照片推断全部政治决定或指挥关系；不采纳页面附带其他政治职务概括。",
+      "width": 1020,
+      "height": 758,
+      "downloadUrl": "https://hpcbristol.net/image-library/large/fu-n051.jpg",
+      "reviewedAt": "2026-10-28",
+      "reviewStatus": "档案说明已核阅，视觉另见Terra原图核验。",
+      "file": {
+        "path": "media/nanjing-1927.jpg",
+        "sha256": "4b7fcdeab7b5cc9ce0a34568a6a6fdaeea6a848432383e7f8b8712884ab9250c"
+      }
+    }
+  ],
+  "audio": [
+    {
+      "id": "opening-question",
+      "sha256": "4a68e1b1cfd255bc2520ecb1f969bb6795194ea703cb6eebd5353a151640ae99",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "cooperation-two-identities",
+      "sha256": "ff34a460365ef414f29f2935a385a450fff99e1991174226f3fcb3f2315cebea",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "northern-expedition-tensions",
+      "sha256": "768772baf01c0342cfa7cc3c1766ac228db7c928521141d0de9a6ebfcbacbbe3",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "order-before-victory",
+      "sha256": "12716edd8c46f3e9bc983e6151bc2a835db8a421baa8882f1b04022b30f0beac",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "uprising-victory",
+      "sha256": "87dc9ad0724f8310f75ad59eeb680d4a5a6b4b22e25ef2a50b05f9e641ae2924",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "guild-then-and-now",
+      "sha256": "ca16e723d7ad84beba8602b3eb5982e18a5f188d14ec655016a018983aa454ab",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "city-competing-authority",
+      "sha256": "bf1da0b98c06ef5e883c97b8aafc8fc1c0222f13bc1667b0ef6ec32152ffb37a",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "a-promise-of-cooperation",
+      "sha256": "339b8b71e0dc65131c0608d6925f6881146b6db8c3a951a3d5e899c858c668eb",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "the-night-before",
+      "sha256": "68d074870da0a258c83c6adf361cafe3c7e0ed1e17aab895e7825bb35d4c4d69",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "the-attack-begins",
+      "sha256": "1fed51eeef5401e285ea4e96b71b2ffd1d1a9e1bcab987db1541ec255f16cb7f",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "disarmament",
+      "sha256": "70b8b892e3d0a49a76617a8512a8cfb129152f8d2b38288d0b27ac5eac08a676",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "april-thirteen",
+      "sha256": "adf23a7370829ff2137f23b244545a8bbd1d20ef0775224fc89de372220aa726",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "what-was-lost",
+      "sha256": "5b4a57a063e5abd8b3c87801a85871d1ea907748ff5ce46a0df43c52dedeb7ee",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "purge-beyond-membership",
+      "sha256": "5a62fd61da839ad40c4405b76a2bf27b09e5c3922b3c6aeb7de5fd41750e688a",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "casualty-counts",
+      "sha256": "65013b02f6a69fe9bb145fc31dbc30ba032e8a699aa14bdee12933fad5f1908a",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "casualty-limits",
+      "sha256": "cd7894c58ca58337503a50a167e3e9c394b672a645e59e127c52fbff13561dc7",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "nanjing-government",
+      "sha256": "4da16c4aa87e9060033e25d576f47ce3b86e73c2598a53e860297aecb7f3b6c7",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "wuhan-continuing-cooperation",
+      "sha256": "38d9ee0a44d3a730ae602304438f9853621d6a9fb4d414e081ed7768cfbc2347",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "july-break",
+      "sha256": "3633f8bb2edc5debdbfb685bb6c58e7513d183ddbe5fdb947c886d0421de51d5",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "armed-resistance-turn",
+      "sha256": "7db1907b3431c35fb1962acd706ea937ce13f2f44c6201f26e9f5d5325fcf604",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "responsibility-and-response",
+      "sha256": "59b45529b47e8ac96af64241eaeff62caadbc9002737675383ff0848847939b1",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "historical-conclusion",
+      "sha256": "ecd9c61eb5616a739c8f465bdddda76b859c232935e9dd977f0d84f52f1c00b3",
+      "provenance": {
+        "source": "MiniMax speech-2.8-hd，已确认A声线；本作品原生合成收据。",
+        "license": "用户已授权本作品MiniMax合成旁白；使用范围依平台条款。"
+      }
+    },
+    {
+      "id": "background-music",
+      "sha256": "b1fddfeb61c0da46df44b41859e13af7afd1e4d96453a9c35ea0da01902eea67",
+      "provenance": {
+        "source": "FFmpeg from locked local audio",
+        "license": "来源与授权见公共混音回执及原始资产记录"
+      }
+    },
+    {
+      "id": "background-sfx",
+      "sha256": "6dc8b0032d6dbae0622165b472a7a33f4453f9ae915d108e3d43fe7e01017353",
+      "provenance": {
+        "source": "FFmpeg from locked local audio",
+        "license": "来源与授权见公共混音回执及原始资产记录"
+      }
+    },
+    {
+      "id": "fixed-mix",
+      "sha256": "665644f1ecff041d20740a9883ac2f5a36ba1335fb65df4f904f7b5a2b155aab",
+      "provenance": {
+        "source": "FFmpeg from locked local audio",
+        "license": "来源与授权见公共混音回执及原始资产记录"
+      }
+    }
+  ],
+  "fonts": {
+    "schemaVersion": 1,
+    "preset": "china-modern",
+    "catalogSha256": "8b20d595615809ea6bb025c213af4072a87831da4ad39d9d77dab55dd35500d2",
+    "nativeSelectionSha256": "e2c03647c8b292e67a902a1f1022efd947f46050cc5f7e4865b6cf994eb6c1b4",
+    "roles": {
+      "heading": {
+        "id": "zhuque",
+        "native": {
+          "font": {
+            "path": "fonts/558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4.ttf",
+            "sha256": "558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4"
+          },
+          "weight": 400,
+          "style": "normal"
+        },
+        "weight": 400,
+        "style": "normal",
+        "cssFamily": "HistoryHeading0",
+        "faces": [
+          {
+            "id": "zhuque",
+            "family": "Zhuque Fangsong (technical preview)",
+            "postscriptName": "ZhuqueFangsong-Regular",
+            "subfamily": "Regular",
+            "weight": 400,
+            "cssWeight": 400,
+            "style": "normal",
+            "axes": {},
+            "font": {
+              "path": "fonts/558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4.ttf",
+              "sha256": "558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4"
+            },
+            "licenses": [
+              {
+                "path": "licenses/font-558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4-0.txt",
+                "sha256": "66cc01ad4df62fca6936431a426104cb32a52ce8da49de9a7d643e02d7659043",
+                "url": "https://github.com/TrionesType/zhuque/blob/v0.212/LICENSE.txt"
+              },
+              {
+                "path": "licenses/font-558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4-1.txt",
+                "sha256": "f46cf892b8b299eb03dce95d15d21fb5e745a58d66a8cf94c92a8509a5c0d5ff",
+                "url": "https://github.com/TrionesType/zhuque/blob/v0.212/README.md"
+              }
+            ],
+            "source": {
+              "url": "https://github.com/TrionesType/zhuque/releases/download/v0.212/ZhuqueFangsong-v0.212.zip",
+              "version": "v0.212 technical preview",
+              "repository": "https://github.com/TrionesType/zhuque"
+            },
+            "cssFamily": "HistoryHeading0"
+          }
+        ]
+      },
+      "body": {
+        "id": "neo-xihei",
+        "native": {
+          "font": {
+            "path": "fonts/893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c.ttf",
+            "sha256": "893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c"
+          },
+          "weight": 400,
+          "style": "normal"
+        },
+        "weight": 400,
+        "style": "normal",
+        "cssFamily": "HistoryBody0",
+        "faces": [
+          {
+            "id": "neo-xihei",
+            "family": "LXGW Neo XiHei",
+            "postscriptName": "LXGWNeoXiHei",
+            "subfamily": "Regular",
+            "weight": 400,
+            "cssWeight": 400,
+            "style": "normal",
+            "axes": {},
+            "font": {
+              "path": "fonts/893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c.ttf",
+              "sha256": "893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c"
+            },
+            "licenses": [
+              {
+                "path": "licenses/font-893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c-0.txt",
+                "sha256": "bce9800ab47cd0961c2a536d5ecfb983442d58eec1db5ff88a5f1a8d1c682367",
+                "url": "https://github.com/lxgw/LxgwNeoXiHei/blob/v1.305/LICENSE.md"
+              },
+              {
+                "path": "licenses/font-893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c-1.txt",
+                "sha256": "0b8c1c52b89a85fed553d3e0c11bee3e9bf82407af3b9034c109ab6aad484b98",
+                "url": "https://github.com/lxgw/LxgwNeoXiHei/blob/v1.305/LICENSE_CHS.md"
+              },
+              {
+                "path": "licenses/font-893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c-2.txt",
+                "sha256": "66e6b25df50f87217e4c53417dc511eb9698756e355a3bda8f6a6711f4611f02",
+                "url": "https://github.com/lxgw/LxgwNeoXiHei/blob/v1.305/README.md"
+              }
+            ],
+            "source": {
+              "url": "https://github.com/lxgw/LxgwNeoXiHei/releases/download/v1.305/LXGWNeoXiHei.ttf",
+              "version": "v1.305",
+              "repository": "https://github.com/lxgw/LxgwNeoXiHei"
+            },
+            "cssFamily": "HistoryBody0"
+          }
+        ]
+      }
+    }
+  },
+  "nativeLicenses": [
+    "licenses/Huashu-MIT.txt",
+    "licenses/Noto-OFL.txt",
+    "licenses/GSAP-NOTICE.txt"
+  ]
+}

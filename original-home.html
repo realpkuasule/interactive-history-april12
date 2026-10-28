@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN" data-history-motif="archive"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>四·一二反革命政变</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#11191e;color:#edf2f4;font:15px/1.6 system-ui}main{max-width:1500px;margin:auto;padding:28px}h1{font-size:25px;font-weight:600;margin:0}p{color:#b7c7cf;margin:8px 0 24px}.toolbar{display:flex;align-items:center;flex-wrap:wrap;gap:12px;margin:16px 0}button,select{font:inherit;border:1px solid #52616b;border-radius:6px;background:#24313a;color:inherit;padding:7px 16px;cursor:pointer}button:disabled,input:disabled{opacity:.45;cursor:default}input{flex:1;min-width:160px;accent-color:#c5b1ee}a{color:#c5b1ee;text-underline-offset:4px}button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid #c5b1ee;outline-offset:4px}.viewport{position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;background:#11191e;border-radius:12px}.viewport iframe{position:absolute;inset:0;border:0;transform-origin:0 0}output{font-variant-numeric:tabular-nums;min-width:100px}label{display:flex;align-items:center;gap:8px}#error{padding:16px;color:#ffdbcc;border:1px solid #8a5548;border-radius:6px;margin-top:12px}[hidden]{display:none!important}@media(max-width:600px){main{padding:18px 12px}h1{font-size:21px}}.embedded main{padding:0}.embedded h1,.embedded .description,.embedded .preview-links{display:none}.embedded .toolbar{margin:12px 0 0}
+</style>
+<main><h1>四·一二反革命政变</h1><p class="description"></p>
+<div class="viewport"><iframe title="动态预览"></iframe></div><div id="error" role="alert" hidden></div>
+<div class="toolbar"><button id="play" type="button" disabled>播放</button><button id="replay" type="button" disabled>重播</button><button id="captionToggle" type="button" aria-pressed="true" disabled>字幕：开</button><button id="musicToggle" type="button" aria-pressed="true" disabled>音乐：开</button><button id="sfxToggle" type="button" aria-pressed="true" disabled>音效：开</button>
+<label>主题 <select id="theme" aria-label="预览主题"></select></label>
+<input id="seek" type="range" min="0" max="1" value="0" step="0.01" aria-label="预览时间" disabled><output id="time" for="seek">加载中…</output></div>
+<nav class="preview-links"><a href="explanation.html">完整解释稿与来源</a> · <a href="完整解说.md">完整解说</a> · <a href="credits.json">图片、配音与许可</a><a id="json" hidden></a><a id="plan" hidden></a></nav>
+<link rel="stylesheet" href="preview.css"><link rel="stylesheet" href="fonts.css"><p>历史时间轴 · 按事件顺序，非等比例；播放时间另见进度条。</p><nav id="historicalTimeline" aria-label="历史时间轴"></nav><nav id="chapters" aria-label="章节"></nav><label>事件定位 <select id="nodeSelect"></select></label><article><h2 id="readingTitle"></h2><div id="reading"></div></article><p><a href="explanation.html">完整解释稿与来源</a> · <a href="完整解说.md">完整解说</a></p><p>来源状态和图像材料的适用范围见完整解释稿；图片与配音署名见许可说明。</p></main><script id="preview-data" type="application/json">{"title":"四·一二反革命政变","description":"历史事件动态解释 · 有声全片","composition_id":"resource-stage","duration_s":507.96666666666664,"renderer":{"fps":30,"width":1920,"height":1080},"themes":{"dark":{"html":{"path":"stage.html"},"request":{"path":"request.json"},"plan":{"path":"request.json"}}}}</script>
+<script>
+(() => {
+  const embedded=new URLSearchParams(location.search).has('embedded');
+  document.documentElement.classList.toggle('embedded',embedded);
+  const frame=document.querySelector('iframe'),viewport=document.querySelector('.viewport');
+  const play=document.querySelector('#play'),replay=document.querySelector('#replay'),seek=document.querySelector('#seek'),time=document.querySelector('#time'),theme=document.querySelector('#theme'),error=document.querySelector('#error');
+  let nativeMedia=false;
+  const control=(action,timeSeconds)=>frame.contentWindow.postMessage({source:"hf-parent",type:"control",action,...(timeSeconds===undefined?{}:{timeSeconds})},location.origin);
+  let descriptor,timeline,duration,savedTime=embedded?1.32:0,playing=false,loadTimer,loadVersion=0;
+  const enabled=value=>{play.disabled=replay.disabled=seek.disabled=!value;};
+  function fail(message){clearTimeout(loadTimer);timeline?.pause();timeline=undefined;playing=false;enabled(false);error.hidden=false;error.textContent=message;time.textContent='预览不可用';frame.dataset.ready='false';}
+  function sync(){seek.value=timeline.time();time.textContent=timeline.time().toFixed(2)+' / '+duration+' 秒';const active=(nativeMedia?playing:!timeline.paused())&&timeline.progress()<1;play.textContent=active?'暂停':'播放';play.setAttribute('aria-pressed',String(active));frame.contentWindow.historyNarration?.syncPlayback(active,active?timeline.time():frame.contentWindow.resourcePreview.snapshot().currentFrame/30);}
+  function localURL(relative){const url=new URL(relative,location.href);if(url.origin!==location.origin)throw new Error('Preview URL must be local');return url.href;}
+  function resize(){if(descriptor)frame.style.transform='scale('+viewport.clientWidth/descriptor.renderer.width+')';}
+  new ResizeObserver(resize).observe(viewport);
+  frame.addEventListener('load',async()=>{
+    if(!frame.getAttribute('src'))return;
+    const version=loadVersion;
+    try {
+      const documentFrame=frame.contentDocument;
+      await documentFrame.fonts.ready; await frame.contentWindow.resourcePreview.ready;
+      await Promise.all([...documentFrame.images].map(image=>image.decode()));
+      nativeMedia=!!documentFrame.querySelector('video');
+      if(nativeMedia)await Promise.all([...documentFrame.querySelectorAll('video')].map(v=>v.readyState>=2?Promise.resolve():new Promise((resolve,reject)=>{v.addEventListener('loadeddata',resolve,{once:true});v.addEventListener('error',reject,{once:true});})));
+      if(version!==loadVersion)return;
+      const candidate=frame.contentWindow.__timelines?.[descriptor.composition_id],root=documentFrame.querySelector('[data-composition-id]');
+      if(!candidate||root?.dataset.compositionId!==descriptor.composition_id||Math.abs(candidate.duration()-duration)>1e-6||Number(root.dataset.duration)!==duration)throw new Error('Mismatched composition');
+      timeline=candidate;clearTimeout(loadTimer);error.hidden=true;enabled(true);frame.dataset.ready='true';
+      timeline.eventCallback('onUpdate',sync);timeline.eventCallback('onComplete',()=>{playing=false;sync();});
+      if(nativeMedia){control('seek',Math.min(savedTime,duration));control(playing?'play':'pause');}else{timeline.seek(Math.min(savedTime,duration),false);playing?timeline.play():timeline.pause();}sync();
+    } catch {if(version===loadVersion)fail('预览暂时无法加载，请刷新后重试。');}
+  });
+  function loadTheme(){
+    loadVersion++;clearTimeout(loadTimer);enabled(false);error.hidden=true;frame.dataset.ready='false';
+    if(timeline){if(nativeMedia)control('stop-media');timeline.pause();timeline.eventCallback('onUpdate',null);timeline.eventCallback('onComplete',null);timeline=undefined;}
+    const files=descriptor.themes[theme.value];
+    document.querySelector('#json').href=localURL(files.request.path);document.querySelector('#plan').href=localURL(files.plan.path);
+    frame.src=localURL(files.html.path);time.textContent='加载中…';loadTimer=setTimeout(()=>fail('预览加载超时，请刷新后重试。'),15000);
+  }
+  play.onclick=()=>{if(!timeline)return;if(nativeMedia){if(timeline.progress()===1)control('seek',0);playing=timeline.progress()===1||!playing;control(playing?'play':'pause');sync();return;}if(timeline.progress()===1){playing=true;timeline.restart();}else{playing=timeline.paused();playing?timeline.play():timeline.pause();}sync();};
+  replay.onclick=()=>{if(!timeline)return;playing=true;if(nativeMedia){control('seek',0);control('play');}else timeline.restart();sync();};
+  seek.oninput=async()=>{if(!timeline)return;playing=false;if(nativeMedia){savedTime=Number(seek.value);control('pause');control('seek',savedTime);}else{timeline.pause();await frame.contentWindow.resourcePreview.seekFrame(Math.min(15238,Math.round(Number(seek.value)*30)));savedTime=timeline.time();}sync();};
+  theme.onchange=()=>{if(timeline){savedTime=timeline.time();playing=(nativeMedia?playing:!timeline.paused())&&timeline.progress()<1;}try{loadTheme();}catch{fail('预览暂时无法加载，请刷新后重试。');}};
+  try {
+    descriptor=JSON.parse(document.querySelector('#preview-data').textContent);duration=descriptor.duration_s;
+    if(!Number.isFinite(duration)||duration<=0||!descriptor.composition_id||!descriptor.renderer?.width||!descriptor.renderer?.height)throw new Error('Invalid preview descriptor');
+    document.title=document.querySelector('h1').textContent=descriptor.title;
+    document.querySelector('.description').textContent=descriptor.description+' '+duration+' 秒 · 可按章节和事件定位。';
+    frame.title=descriptor.title+'动态预览';frame.dataset.compositionId=descriptor.composition_id;
+    frame.style.width=descriptor.renderer.width+'px';frame.style.height=descriptor.renderer.height+'px';viewport.style.aspectRatio=descriptor.renderer.width+'/'+descriptor.renderer.height;
+    for(const mode of Object.keys(descriptor.themes)){const option=document.createElement('option');option.value=mode;option.textContent=mode==='dark'?'暗色':'亮色';theme.append(option);}
+    if(!theme.options.length)throw new Error('No preview themes');
+    theme.disabled=theme.options.length===1;seek.max=duration;resize();loadTheme();
+  } catch {fail('预览信息不完整，请刷新后重试。');}
+})();
+</script><script type="module" src="navigation.js"></script></html>

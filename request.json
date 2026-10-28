@@ -1,0 +1,2145 @@
+{
+  "parameterOrigin": "reconstructed_design",
+  "intent": "script_redesign",
+  "output": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080
+  },
+  "style": {
+    "rationale": "中国近代档案与报刊气质：纸色、墨黑、深朱色索引，使用真实照片和文书；不伪造史料印章。",
+    "motif": "archive",
+    "background": "#f3efe5",
+    "ink": "#24231f",
+    "accent": "#9b392c",
+    "secondary": "#625d52",
+    "card": {
+      "fill": "#fffaf0",
+      "ink": "#24231f",
+      "muted": "#625d52",
+      "edge": "#686154",
+      "rule": "#c7bda9",
+      "shadow": "#d7cdbc"
+    }
+  },
+  "frames": 15239,
+  "shots": [
+    {
+      "id": "opening-question",
+      "nodeId": "third-uprising",
+      "durationFrames": 715,
+      "purpose": "以1927年上海危机提出问题，再回到1924年的合作；旁白段原内容索引保留cooperation，显示历史日期按third-uprising。",
+      "narration": "1927年春天，北伐军正向前推进。上海工人经过第三次武装起义，打败了军阀部队。可是，仅仅几个星期后，工人纠察队就被缴械，工会遭到镇压。原本共同参加国民革命的力量，为什么走到了这一步？要看清四一二，我们得先回到这场合作是怎样建立的。",
+      "visual": {
+        "kind": "sequence",
+        "legend": "现代解释图版；按事件顺序展开，非等比例时间线。",
+        "items": [
+          {
+            "id": "opening-question-item-0",
+            "label": "共同的革命",
+            "detail": "反对军阀与列强特权",
+            "position": [
+              0.2,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "opening-question-item-1",
+            "label": "上海的转折",
+            "detail": "工人武装遭到解除",
+            "position": [
+              0.5,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          },
+          {
+            "id": "opening-question-item-2",
+            "label": "问题",
+            "detail": "合作为何转向镇压？",
+            "position": [
+              0.8,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0.26,
+              0.38
+            ]
+          }
+        ],
+        "links": [],
+        "images": [],
+        "imageCredit": "依据已确认解释稿及所列来源；图版文字为现代概括。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 23.43611111111111,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 0,
+      "endFrame": 715
+    },
+    {
+      "id": "cooperation-two-identities",
+      "nodeId": "cooperation",
+      "durationFrames": 777,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "1924年，国民党第一次全国代表大会推动国共合作正式形成。共产党员以个人身份加入国民党，同时保留共产党的组织。于是，一个人可能兼有两党党员身份。双方需要共同动员群众、建立军队，完成反军阀的任务。可是，这份合作没有解决一个根本问题：将来的军队和政府，究竟由谁领导？",
+      "visual": {
+        "kind": "sequence",
+        "legend": "现代解释图版；按事件顺序展开，非等比例时间线。",
+        "items": [
+          {
+            "id": "cooperation-two-identities-item-0",
+            "label": "个人加入国民党",
+            "detail": "共产党组织仍然保留",
+            "position": [
+              0.73,
+              0.31
+            ],
+            "width": 0.43,
+            "height": 0.16,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "cooperation-two-identities-item-1",
+            "label": "共同任务",
+            "detail": "领导权问题尚未解决",
+            "position": [
+              0.73,
+              0.5
+            ],
+            "width": 0.43,
+            "height": 0.16,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          },
+          {
+            "id": "cooperation-two-identities-photo-label",
+            "label": "陈独秀·1919年",
+            "detail": "",
+            "position": [
+              0.23,
+              0.58
+            ],
+            "width": 0.34,
+            "height": 0.12,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [],
+        "images": [
+          {
+            "mediaId": "chen",
+            "x": 0.07,
+            "y": 0.19,
+            "width": 0.32,
+            "height": 0.32,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "陈独秀照仅作身份识别，摄于合作形成之前；依据S10、S05、S07。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 25.46833333333333,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 715,
+      "endFrame": 1492
+    },
+    {
+      "id": "northern-expedition-tensions",
+      "nodeId": "northern-expedition",
+      "durationFrames": 936,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "1926年，中山舰事件和整理党务案，已经显露出蒋介石与共产党之间的紧张。7月，北伐开始。军队推进，工农运动也在发展。双方互相支持，指挥体系却不相同。越接近大城市，分歧就越具体：谁接管地方政府？工会还能不能罢工？工人能不能保有自己的武装？这些问题，逐渐从合作内部的争论，变成了实际的权力冲突。",
+      "visual": {
+        "kind": "sequence",
+        "legend": "现代解释图版；按事件顺序展开，非等比例时间线。",
+        "items": [
+          {
+            "id": "northern-expedition-tensions-item-0",
+            "label": "军事推进",
+            "detail": "北伐军扩大控制",
+            "position": [
+              0.73,
+              0.31
+            ],
+            "width": 0.43,
+            "height": 0.16,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "northern-expedition-tensions-item-1",
+            "label": "工农动员",
+            "detail": "群众组织迅速发展",
+            "position": [
+              0.73,
+              0.5
+            ],
+            "width": 0.43,
+            "height": 0.16,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          },
+          {
+            "id": "northern-expedition-tensions-photo-label",
+            "label": "蒋介石·1925年",
+            "detail": "",
+            "position": [
+              0.23,
+              0.58
+            ],
+            "width": 0.34,
+            "height": 0.12,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [],
+        "images": [
+          {
+            "mediaId": "chiang",
+            "x": 0.07,
+            "y": 0.19,
+            "width": 0.32,
+            "height": 0.32,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "蒋介石照作身份识别，不作1926年现场图；依据S12、S09、S07。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 30.679999999999996,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 1492,
+      "endFrame": 2428
+    },
+    {
+      "id": "order-before-victory",
+      "nodeId": "february-order",
+      "durationFrames": 503,
+      "purpose": "以真实罢工令引出工人此前的动员，清楚标注第二次起义材料。",
+      "narration": "四月十二日前，上海工人已经走过一段艰难的路。这份总同盟罢工令，发于1927年2月19日。那时，第二次武装起义还在准备。他们要用罢工和起义，配合北伐军进城。",
+      "visual": {
+        "kind": "archive",
+        "legend": "照片与文书按资料日期标注；图版为现代解释设计，详细出处见完整解释稿。",
+        "items": [
+          {
+            "id": "preparation",
+            "label": "罢工与起义",
+            "detail": "共同反对军阀统治",
+            "position": [
+              0.82,
+              0.4
+            ],
+            "width": 0.25,
+            "height": 0.23
+          },
+          {
+            "id": "order-date",
+            "label": "1927年2月19日",
+            "detail": "",
+            "position": [
+              0.205,
+              0.625
+            ],
+            "width": 0.28,
+            "height": 0.1,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "crowd-date",
+            "label": "群众活动·1927年",
+            "detail": "具体摄影日未明",
+            "position": [
+              0.525,
+              0.585
+            ],
+            "width": 0.25,
+            "height": 0.13,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [],
+        "images": [
+          {
+            "mediaId": "strike-order",
+            "x": 0.065,
+            "y": 0.22,
+            "width": 0.28,
+            "height": 0.35,
+            "caption": "",
+            "focusZoom": 1
+          },
+          {
+            "mediaId": "procession",
+            "x": 0.4,
+            "y": 0.2,
+            "width": 0.25,
+            "height": 0.3,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "图源：上海档案信息网；North-China Daily News《China in Chaos》（1927），文书与照片并非同日。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 5.868333333333332,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 14.083999999999998,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 16.300925925925924,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 2428,
+      "endFrame": 2931
+    },
+    {
+      "id": "uprising-victory",
+      "nodeId": "third-uprising",
+      "durationFrames": 643,
+      "purpose": "通过周恩来、邮务工人和纠察队照片说明第三次起义及接管范围。",
+      "narration": "一个月后，第三次起义终于获胜。3月21日发动，22日，军阀部队被击败。周恩来负责军事指挥，工人纠察队成为重要力量。但起义控制的范围，并不包括外国租界。胜利以后，新的问题出现了：武装和地方权力，由谁掌握？",
+      "visual": {
+        "kind": "archive",
+        "legend": "照片与文书按资料日期标注；图版为现代解释设计，详细出处见完整解释稿。",
+        "items": [
+          {
+            "id": "postal-label",
+            "label": "邮务工人·1927年3月",
+            "detail": "",
+            "position": [
+              0.235,
+              0.52
+            ],
+            "width": 0.36,
+            "height": 0.1,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "march-label",
+            "label": "纠察队·1927年3月",
+            "detail": "",
+            "position": [
+              0.605,
+              0.52
+            ],
+            "width": 0.33,
+            "height": 0.1,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "zhou-label",
+            "label": "周恩来·1924年",
+            "detail": "",
+            "position": [
+              0.87,
+              0.52
+            ],
+            "width": 0.16,
+            "height": 0.1,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "victory-and-limit",
+            "label": "3月21日发动，22日获胜；外国租界不在接管范围",
+            "detail": "",
+            "position": [
+              0.5,
+              0.628
+            ],
+            "width": 0.88,
+            "height": 0.09,
+            "enter": [
+              0.3,
+              0.43
+            ]
+          }
+        ],
+        "links": [],
+        "images": [
+          {
+            "mediaId": "postal-workers",
+            "x": 0.055,
+            "y": 0.19,
+            "width": 0.36,
+            "height": 0.265,
+            "caption": "",
+            "focusZoom": 1
+          },
+          {
+            "mediaId": "workers-march",
+            "x": 0.44,
+            "y": 0.19,
+            "width": 0.33,
+            "height": 0.265,
+            "caption": "",
+            "focusZoom": 1
+          },
+          {
+            "mediaId": "zhou",
+            "x": 0.8,
+            "y": 0.18,
+            "width": 0.14,
+            "height": 0.265,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "图源：上海档案信息网专题图说；周恩来肖像据维基共享资源，拍摄早于本事件。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 7.501666666666666,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 18.003999999999998,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 21.021153846153844,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 2931,
+      "endFrame": 3574
+    },
+    {
+      "id": "guild-then-and-now",
+      "nodeId": "city-power",
+      "durationFrames": 572,
+      "purpose": "以真实旧照与遗址场馆作地点对照，标明复建及现代图的报道年份。",
+      "narration": "起义后，湖州会馆成了上海总工会的总会所。左边的旧照，留下了1927年3月的工人武装。右边是2021年报道中的遗址纪念场馆门头。原建筑大部分毁于1932年战火，右图牌楼是后来复建的。",
+      "visual": {
+        "kind": "archive",
+        "legend": "1927年旧照与2021年报道配图；不作同机位比较，不称原建筑整体保存。",
+        "items": [
+          {
+            "id": "location",
+            "label": "地点对照",
+            "detail": "中兴路828号；原建筑大部毁损，牌楼经过复建",
+            "position": [
+              0.885,
+              0.38
+            ],
+            "width": 0.17,
+            "height": 0.27
+          },
+          {
+            "id": "guild-history-date",
+            "label": "1927年3月27日·旧照",
+            "detail": "湖州会馆外的工人武装",
+            "position": [
+              0.255,
+              0.61
+            ],
+            "width": 0.4,
+            "height": 0.13,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "guild-modern-date",
+            "label": "2021年报道·复建门头",
+            "detail": "原建筑并未完整保存",
+            "position": [
+              0.645,
+              0.61
+            ],
+            "width": 0.29,
+            "height": 0.13,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [],
+        "images": [
+          {
+            "mediaId": "guild-1927",
+            "x": 0.055,
+            "y": 0.19,
+            "width": 0.4,
+            "height": 0.35,
+            "caption": "",
+            "focusZoom": 1
+          },
+          {
+            "mediaId": "guild-2021",
+            "x": 0.5,
+            "y": 0.19,
+            "width": 0.29,
+            "height": 0.35,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "左：GJ01-109，George Johnson Collection / Bristol Library，CC BY-NC-ND 4.0；右：静安区政府报道引用上海观察。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 3574,
+      "endFrame": 4146
+    },
+    {
+      "id": "city-competing-authority",
+      "nodeId": "city-power",
+      "durationFrames": 776,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "与此同时，军队、总工会和临时市政府，都在上海活动。它们声称属于同一个革命阵营，却没有形成稳定的共同指挥。蒋介石方面调整驻沪部队，共产党则试图争取军队支持、保存工人武装。最后真正起作用的，是哪一支部队听谁的命令。公开的团结口号，已经越来越难以掩盖这个分歧。",
+      "visual": {
+        "kind": "sequence",
+        "legend": "现代解释图版；按事件顺序展开，非等比例时间线。",
+        "items": [
+          {
+            "id": "city-competing-authority-item-0",
+            "label": "正规军",
+            "detail": "实际服从谁的命令？",
+            "position": [
+              0.2,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "city-competing-authority-item-1",
+            "label": "工会与纠察队",
+            "detail": "能否继续保有武装？",
+            "position": [
+              0.5,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          },
+          {
+            "id": "city-competing-authority-item-2",
+            "label": "临时市政府",
+            "detail": "能否执行地方决定？",
+            "position": [
+              0.8,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0.26,
+              0.38
+            ]
+          }
+        ],
+        "links": [],
+        "images": [],
+        "imageCredit": "依据已确认解释稿及所列来源；图版文字为现代概括。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 25.435555555555556,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 4146,
+      "endFrame": 4922
+    },
+    {
+      "id": "a-promise-of-cooperation",
+      "nodeId": "wang-chen-declaration",
+      "durationFrames": 569,
+      "purpose": "以汪陈两人身份照及分阶段关系，说明宣言承诺与军权的距离。",
+      "narration": "这时，国共合作还没有完全破裂。4月5日，汪精卫和陈独秀发表联合宣言，仍希望用协商消除冲突。宣言给出了不会驱逐共产党、摧残工会的承诺。但公开承诺，终究没能约束掌握军队的一方。",
+      "visual": {
+        "kind": "relations",
+        "legend": "实线：可核实的公开合作声明。宣言不等于实际执行；原文转录见来源S08。",
+        "items": [
+          {
+            "id": "ccp",
+            "label": "陈独秀",
+            "detail": "继续争取两党合作",
+            "position": [
+              0.54,
+              0.43
+            ],
+            "width": 0.25,
+            "height": 0.23
+          },
+          {
+            "id": "kmt",
+            "label": "汪精卫",
+            "detail": "公开宣言主张协商",
+            "position": [
+              0.82,
+              0.43
+            ],
+            "width": 0.25,
+            "height": 0.23
+          },
+          {
+            "id": "chen-label",
+            "label": "陈独秀·1919年",
+            "detail": "",
+            "position": [
+              0.124,
+              0.565
+            ],
+            "width": 0.18,
+            "height": 0.13,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "wang-label",
+            "label": "汪精卫·日期未明",
+            "detail": "",
+            "position": [
+              0.313,
+              0.565
+            ],
+            "width": 0.18,
+            "height": 0.13,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [
+          {
+            "from": "ccp",
+            "to": "kmt",
+            "label": "联合宣言",
+            "semantics": "alliance",
+            "sourceIds": [
+              "S08"
+            ],
+            "status": "reviewed",
+            "enter": [
+              0.14,
+              0.42
+            ],
+            "laneY": 0.26,
+            "labelPosition": [
+              0.68,
+              0.235
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "chen",
+            "x": 0.055,
+            "y": 0.19,
+            "width": 0.14,
+            "height": 0.3,
+            "caption": "",
+            "focusZoom": 1
+          },
+          {
+            "mediaId": "wang",
+            "x": 0.24,
+            "y": 0.19,
+            "width": 0.14,
+            "height": 0.3,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "人物照仅供身份识别；原件转录：《汪精卫、陈独秀联合宣言》，1927年4月5日《申报》刊印。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.638333333333331,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 15.931999999999999,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 18.571527777777774,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 4922,
+      "endFrame": 5491
+    },
+    {
+      "id": "the-night-before",
+      "nodeId": "eve",
+      "durationFrames": 420,
+      "purpose": "以汪寿华、杜月笙及工会活动图交代遇害，不重演现场。",
+      "narration": "几天后，局势骤然收紧。4月11日夜，上海总工会委员长汪寿华应邀前往杜月笙处，随后遇害。针对工人组织的打击，已经先落在了领导者身上。",
+      "visual": {
+        "kind": "archive",
+        "legend": "照片与文书按资料日期标注；图版为现代解释设计，详细出处见完整解释稿。",
+        "items": [
+          {
+            "id": "shouhua-label",
+            "label": "汪寿华·1924年",
+            "detail": "",
+            "position": [
+              0.14,
+              0.51
+            ],
+            "width": 0.2,
+            "height": 0.1,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "du-label",
+            "label": "杜月笙·1940年代",
+            "detail": "",
+            "position": [
+              0.36,
+              0.51
+            ],
+            "width": 0.22,
+            "height": 0.1,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "union-scene-label",
+            "label": "汪寿华授旗讲话（起义胜利后）",
+            "detail": "",
+            "position": [
+              0.715,
+              0.51
+            ],
+            "width": 0.45,
+            "height": 0.1,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "death",
+            "label": "4月11日夜，汪寿华赴约后遇害",
+            "detail": "",
+            "position": [
+              0.5,
+              0.63
+            ],
+            "width": 0.88,
+            "height": 0.09,
+            "enter": [
+              0.2,
+              0.3
+            ]
+          }
+        ],
+        "links": [],
+        "images": [
+          {
+            "mediaId": "shouhua",
+            "x": 0.055,
+            "y": 0.18,
+            "width": 0.15,
+            "height": 0.26,
+            "caption": "",
+            "focusZoom": 1
+          },
+          {
+            "mediaId": "du",
+            "x": 0.26,
+            "y": 0.18,
+            "width": 0.15,
+            "height": 0.26,
+            "caption": "",
+            "focusZoom": 1
+          },
+          {
+            "mediaId": "shouhua-flag",
+            "x": 0.49,
+            "y": 0.19,
+            "width": 0.45,
+            "height": 0.26,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "图源：维基共享资源、上海档案信息网；身份照不作为邀约或遇害现场记录。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 4.8999999999999995,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 11.76,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 13.631578947368421,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 5491,
+      "endFrame": 5911
+    },
+    {
+      "id": "the-attack-begins",
+      "nodeId": "april12",
+      "durationFrames": 330,
+      "purpose": "先呈现帮会突袭，再引出军队介入，节奏变紧而不制造枪战重演。",
+      "narration": "第二天凌晨，袭击开始了。帮会武装向工人纠察队发动进攻。紧接着，国民党军队出面，以调解冲突为名介入。",
+      "visual": {
+        "kind": "sequence",
+        "legend": "照片与文书按资料日期标注；图版为现代解释设计，详细出处见完整解释稿。",
+        "items": [
+          {
+            "id": "attackers",
+            "label": "帮会武装",
+            "detail": "发动袭击",
+            "position": [
+              0.625,
+              0.43
+            ],
+            "width": 0.22,
+            "height": 0.23,
+            "enter": [
+              0,
+              0.1
+            ]
+          },
+          {
+            "id": "workers",
+            "label": "工人纠察队",
+            "detail": "遭到进攻",
+            "position": [
+              0.875,
+              0.43
+            ],
+            "width": 0.22,
+            "height": 0.23,
+            "enter": [
+              0.1,
+              0.2
+            ]
+          },
+          {
+            "id": "chiang-label",
+            "label": "蒋介石·1925年",
+            "detail": "",
+            "position": [
+              0.125,
+              0.58
+            ],
+            "width": 0.18,
+            "height": 0.13,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "march-date",
+            "label": "纠察队·1927年3月",
+            "detail": "",
+            "position": [
+              0.355,
+              0.58
+            ],
+            "width": 0.25,
+            "height": 0.13,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [
+          {
+            "from": "attackers",
+            "to": "workers",
+            "label": "凌晨突袭",
+            "semantics": "conflict",
+            "sourceIds": [
+              "S04",
+              "S02"
+            ],
+            "status": "reviewed",
+            "enter": [
+              0.2,
+              0.45
+            ],
+            "laneY": 0.26,
+            "labelPosition": [
+              0.75,
+              0.235
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "chiang",
+            "x": 0.055,
+            "y": 0.2,
+            "width": 0.14,
+            "height": 0.3,
+            "caption": "",
+            "focusZoom": 1
+          },
+          {
+            "mediaId": "workers-march",
+            "x": 0.23,
+            "y": 0.21,
+            "width": 0.25,
+            "height": 0.27,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "图源：上海档案信息网及维基共享资源；图片呈现身份与组织，不重建凌晨战斗现场。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 3.8499999999999996,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 9.24,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 10.633333333333333,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 5911,
+      "endFrame": 6241
+    },
+    {
+      "id": "disarmament",
+      "nodeId": "april12",
+      "durationFrames": 610,
+      "purpose": "同一张图中先显出军队，再使纠察队从有武装变为被迫缴械。",
+      "narration": "军队带来的，却不是让双方停下来的调解。工人纠察队被迫交出武器。工会机关遭到占领，人员被搜捕。蒋介石发动的清党，就这样改写了上海的力量对比。失去武装以后，工人组织再要保护自己，已经更加困难。",
+      "visual": {
+        "kind": "comparison",
+        "legend": "实线：来源记载的军队缴械行动；文字状态变化表示先后过程，不是实时战场地图。",
+        "items": [
+          {
+            "id": "army",
+            "label": "国民党军队",
+            "detail": "以调解为名介入",
+            "position": [
+              0.535,
+              0.43
+            ],
+            "width": 0.25,
+            "height": 0.24,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "union",
+            "label": "工人纠察队",
+            "detail": "独立武装遭解除",
+            "position": [
+              0.82,
+              0.43
+            ],
+            "width": 0.25,
+            "height": 0.24,
+            "enter": [
+              0,
+              0.12
+            ],
+            "states": [
+              {
+                "at": 0.27,
+                "label": "被迫缴械"
+              }
+            ]
+          },
+          {
+            "id": "arrest-label",
+            "label": "来源标作四一二期间拘捕",
+            "detail": "具体摄影日、人物身份未明",
+            "position": [
+              0.215,
+              0.6
+            ],
+            "width": 0.32,
+            "height": 0.13,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [
+          {
+            "from": "army",
+            "to": "union",
+            "label": "强迫交出武器",
+            "semantics": "command",
+            "sourceIds": [
+              "S04"
+            ],
+            "status": "reviewed",
+            "enter": [
+              0.1,
+              0.27
+            ],
+            "laneY": 0.26,
+            "labelPosition": [
+              0.68,
+              0.235
+            ],
+            "exit": [
+              0.78,
+              0.93
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "arrests",
+            "x": 0.055,
+            "y": 0.21,
+            "width": 0.32,
+            "height": 0.31,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "拘捕图据维基共享资源转引上海对外经贸大学专题；人物身份、精确日期及结局未独立核验。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 7.1166666666666645,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 17.08,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 19.90972222222222,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 6241,
+      "endFrame": 6851
+    },
+    {
+      "id": "april-thirteen",
+      "nodeId": "april13",
+      "durationFrames": 583,
+      "purpose": "区分十二日缴械与十三日示威镇压，保留群众活动图片的日期限制。",
+      "narration": "4月13日，工人仍然罢工，群众仍然走上街头。他们要求释放被捕者、归还武器。游行队伍来到宝山路一带，遭到军队开枪。前一天是缴械。这一天，抗议又遭到镇压。暴力并没有随着一个清晨结束。",
+      "visual": {
+        "kind": "sequence",
+        "legend": "照片与文书按资料日期标注；图版为现代解释设计，详细出处见完整解释稿。",
+        "items": [
+          {
+            "id": "protest",
+            "label": "罢工与请愿",
+            "detail": "要求放人、归还武器",
+            "position": [
+              0.625,
+              0.43
+            ],
+            "width": 0.22,
+            "height": 0.24,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "repression",
+            "label": "宝山路一带",
+            "detail": "军队向游行者开枪",
+            "position": [
+              0.875,
+              0.43
+            ],
+            "width": 0.22,
+            "height": 0.24,
+            "enter": [
+              0.4,
+              0.55
+            ]
+          },
+          {
+            "id": "crowd-label",
+            "label": "1927年群众活动资料图",
+            "detail": "未核定为4月13日现场",
+            "position": [
+              0.255,
+              0.61
+            ],
+            "width": 0.4,
+            "height": 0.13,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [
+          {
+            "from": "protest",
+            "to": "repression",
+            "label": "十三日再遭镇压",
+            "semantics": "conflict",
+            "sourceIds": [
+              "S04",
+              "S02"
+            ],
+            "status": "reviewed",
+            "enter": [
+              0.46,
+              0.63
+            ],
+            "laneY": 0.26,
+            "labelPosition": [
+              0.75,
+              0.235
+            ]
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "procession",
+            "x": 0.055,
+            "y": 0.2,
+            "width": 0.4,
+            "height": 0.34,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "群众活动图：North-China Daily News《China in Chaos》（1927），PD-US；具体摄影日与参与者身份未明。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.801666666666667,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 16.323999999999998,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 19.01086956521739,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 6851,
+      "endFrame": 7434
+    },
+    {
+      "id": "what-was-lost",
+      "nodeId": "april13",
+      "durationFrames": 522,
+      "purpose": "以有依据的评论收束代表片段，提示后续还需讲到武汉。",
+      "narration": "所以，四一二不只是两党领袖关系的改变。它首先改变了工人能否组织、能否自卫，以及能否安全表达诉求。工人纠察队被缴械之后，原本依靠罢工和集会争取结果的办法，也失去了基本的安全保障。",
+      "visual": {
+        "kind": "comparison",
+        "legend": "两幅不同日期的材料并置，用于说明政治参与处境的变化；不是同一现场的连续摄影。",
+        "items": [
+          {
+            "id": "rights",
+            "label": "工人的处境",
+            "detail": "组织、自卫、表达\n均受到严重打击",
+            "position": [
+              0.835,
+              0.39
+            ],
+            "width": 0.24,
+            "height": 0.26
+          },
+          {
+            "id": "flag-label",
+            "label": "升旗·1927年3月27日",
+            "detail": "",
+            "position": [
+              0.2,
+              0.58
+            ],
+            "width": 0.29,
+            "height": 0.13,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "arrest-date",
+            "label": "四一二期间拘捕资料图",
+            "detail": "原照片具体日期未明",
+            "position": [
+              0.525,
+              0.58
+            ],
+            "width": 0.29,
+            "height": 0.13,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [],
+        "images": [
+          {
+            "mediaId": "raising-flag-1927",
+            "x": 0.055,
+            "y": 0.2,
+            "width": 0.29,
+            "height": 0.3,
+            "caption": "",
+            "focusZoom": 1
+          },
+          {
+            "mediaId": "arrests",
+            "x": 0.38,
+            "y": 0.2,
+            "width": 0.29,
+            "height": 0.3,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "图源：上海档案信息网、维基共享资源；不同日期材料并置，不是连续现场摄影。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 6.089999999999999,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 14.615999999999998,
+          "x": 960,
+          "y": 532,
+          "z": 1.012
+        },
+        {
+          "t": 16.916666666666664,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 7434,
+      "endFrame": 7956
+    },
+    {
+      "id": "purge-beyond-membership",
+      "nodeId": "repression",
+      "durationFrames": 765,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "接下来的行动，被称作清党。但它并不只是清理党员名单。收缴武器、解散组织、拘捕和杀害，波及共产党人，也波及工运参与者和其他被认定的左派。镇压还扩展到东南、华南多地。各地发生的时间和执行者并不相同，不能把所有损失都归到上海十二日的一个清晨。",
+      "visual": {
+        "kind": "sequence",
+        "legend": "现代解释图版；按事件顺序展开，非等比例时间线。",
+        "items": [
+          {
+            "id": "purge-beyond-membership-item-0",
+            "label": "党籍清理之外",
+            "detail": "组织遭解散，人员遭捕杀",
+            "position": [
+              0.73,
+              0.31
+            ],
+            "width": 0.43,
+            "height": 0.16,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "purge-beyond-membership-item-1",
+            "label": "时间与地区",
+            "detail": "不能压缩为上海一天",
+            "position": [
+              0.73,
+              0.5
+            ],
+            "width": 0.43,
+            "height": 0.16,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          },
+          {
+            "id": "purge-beyond-membership-photo-label",
+            "label": "四一二期间拘捕资料图",
+            "detail": "",
+            "position": [
+              0.23,
+              0.58
+            ],
+            "width": 0.34,
+            "height": 0.12,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [],
+        "images": [
+          {
+            "mediaId": "arrests",
+            "x": 0.07,
+            "y": 0.19,
+            "width": 0.32,
+            "height": 0.32,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "拘捕照片具体日期未明，不代表所有地区与全部清党行动；依据S04、S05、S07。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 25.075,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 7956,
+      "endFrame": 8721
+    },
+    {
+      "id": "casualty-counts",
+      "nodeId": "casualties",
+      "durationFrames": 803,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "那么，究竟有多少人遇害？先要分清数字在统计什么。南京党史网将十二日记为工人死伤300余人，十三日记为死伤数百人。这里说的是死伤，不能全部改写成死亡。而剑桥中国史这一章的公开摘要，把当天和随后一个月放在一起，估计有数千人被杀。它的时间范围更长，统计对象也不同。",
+      "visual": {
+        "kind": "comparison",
+        "legend": "不同时间窗与统计口径的文字对照，不能相加或求平均。",
+        "items": [
+          {
+            "id": "casualty-counts-item-0",
+            "label": "南京党史网",
+            "detail": "十二日：死伤300余人\n十三日：死伤数百人",
+            "position": [
+              0.2,
+              0.4
+            ],
+            "width": 0.35,
+            "height": 0.26,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "casualty-counts-item-1",
+            "label": "剑桥中国史·公开摘要",
+            "detail": "当天及随后一个月\n估计数千人被杀",
+            "position": [
+              0.8,
+              0.4
+            ],
+            "width": 0.35,
+            "height": 0.26,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          }
+        ],
+        "links": [],
+        "images": [],
+        "imageCredit": "S04与S07；剑桥该章仅核阅公开摘要，未读完整注释。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 26.320555555555554,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 8721,
+      "endFrame": 9524
+    },
+    {
+      "id": "casualty-limits",
+      "nodeId": "casualties",
+      "durationFrames": 794,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "我们没有读到能够独立复算的完整名单和统计表，也没有读到剑桥这一章的完整注释。所以，这里确认大规模暴力和伤亡的发生，不给出一个看似精确的当天死亡总数。要比较不同估计，必须同时看地区、日期，以及统计的是死亡、死伤，还是失踪。数字之间的差别，本身也需要解释。",
+      "visual": {
+        "kind": "comparison",
+        "legend": "现代解释图版；按事件顺序展开，非等比例时间线。",
+        "items": [
+          {
+            "id": "casualty-limits-item-0",
+            "label": "地区与日期",
+            "detail": "统计覆盖哪里、多久？",
+            "position": [
+              0.2,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "casualty-limits-item-1",
+            "label": "对象与名单",
+            "detail": "死亡、死伤、失踪须分清",
+            "position": [
+              0.5,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          },
+          {
+            "id": "casualty-limits-item-2",
+            "label": "本片的边界",
+            "detail": "不拼凑单日死亡总数",
+            "position": [
+              0.8,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0.26,
+              0.38
+            ]
+          }
+        ],
+        "links": [],
+        "images": [],
+        "imageCredit": "依据已确认解释稿及所列来源；图版文字为现代概括。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 26.025555555555552,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 9524,
+      "endFrame": 10318
+    },
+    {
+      "id": "nanjing-government",
+      "nodeId": "nanjing",
+      "durationFrames": 864,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "上海的镇压之后，4月18日，南京国民政府成立，与武汉国民政府相对立。这就是宁汉分裂的重要局面。宁，是南京；汉，是武汉。不过，这不是南京属于国民党、武汉属于共产党的简单划分。武汉仍由国民党方面主持，也仍与共产党合作。北洋北京政府同样存在，南京更没有在成立当天就控制全国。",
+      "visual": {
+        "kind": "sequence",
+        "legend": "现代解释图版；按事件顺序展开，非等比例时间线。",
+        "items": [
+          {
+            "id": "nanjing-government-item-0",
+            "label": "南京·4月18日",
+            "detail": "另立国民政府",
+            "position": [
+              0.755,
+              0.31
+            ],
+            "width": 0.4,
+            "height": 0.16,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "nanjing-government-item-1",
+            "label": "武汉",
+            "detail": "国民党政府仍与中共合作",
+            "position": [
+              0.755,
+              0.5
+            ],
+            "width": 0.4,
+            "height": 0.16,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          },
+          {
+            "id": "nanjing-government-photo-label",
+            "label": "南京定都庆典·1927年4月18日",
+            "detail": "",
+            "position": [
+              0.27,
+              0.6
+            ],
+            "width": 0.45,
+            "height": 0.12,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [],
+        "images": [
+          {
+            "mediaId": "nanjing-1927",
+            "x": 0.055,
+            "y": 0.19,
+            "width": 0.43,
+            "height": 0.34,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "傅秉常摄，HPC Fu-n051；CC BY-NC-ND4.0，完整原图。商业使用须另获许可。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 28.32,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 10318,
+      "endFrame": 11182
+    },
+    {
+      "id": "wuhan-continuing-cooperation",
+      "nodeId": "wuhan",
+      "durationFrames": 730,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "因此，四月的上海决裂，还不能直接等同于整个合作关系已经全面结束。共产党在武汉继续活动，也继续争取合作。但武汉阵营内部，工农运动、军政力量和党派关系同样紧张。上海发生的事，已经暴露出这套合作安排的危险；武汉并没有成为永久可靠的保护。",
+      "visual": {
+        "kind": "sequence",
+        "legend": "现代解释图版；按事件顺序展开，非等比例时间线。",
+        "items": [
+          {
+            "id": "wuhan-continuing-cooperation-item-0",
+            "label": "四月上海",
+            "detail": "蒋介石阵营暴力反共",
+            "position": [
+              0.73,
+              0.31
+            ],
+            "width": 0.43,
+            "height": 0.16,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "wuhan-continuing-cooperation-item-1",
+            "label": "四月以后武汉",
+            "detail": "继续合作，也继续发生矛盾",
+            "position": [
+              0.73,
+              0.5
+            ],
+            "width": 0.43,
+            "height": 0.16,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          },
+          {
+            "id": "wuhan-continuing-cooperation-photo-label",
+            "label": "汪精卫·照片日期未明",
+            "detail": "",
+            "position": [
+              0.23,
+              0.58
+            ],
+            "width": 0.34,
+            "height": 0.12,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [],
+        "images": [
+          {
+            "mediaId": "wang",
+            "x": 0.07,
+            "y": 0.19,
+            "width": 0.32,
+            "height": 0.32,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "汪精卫照作身份识别；不由七月行为倒推其参与上海每项行动。依据S06、S05。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 23.927777777777774,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 11182,
+      "endFrame": 11912
+    },
+    {
+      "id": "july-break",
+      "nodeId": "wuhan",
+      "durationFrames": 878,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "到了7月13日，中共中央发表宣言，决定撤回参加国民政府的共产党员，同时仍愿与国民党内革命分子合作。两天后，7月15日，汪精卫主持国民党中央常委会扩大会议，正式与共产党决裂。中共党史把这个节点，视为第一次国共合作全面破裂的标志。从上海到武汉，相隔三个月，合作是在这一连串选择中瓦解的。",
+      "visual": {
+        "kind": "sequence",
+        "legend": "现代解释图版；按事件顺序展开，非等比例时间线。",
+        "items": [
+          {
+            "id": "july-break-item-0",
+            "label": "7月13日",
+            "detail": "中共撤回政府中的党员",
+            "position": [
+              0.73,
+              0.31
+            ],
+            "width": 0.43,
+            "height": 0.16,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "july-break-item-1",
+            "label": "7月15日",
+            "detail": "武汉正式与共产党决裂",
+            "position": [
+              0.73,
+              0.5
+            ],
+            "width": 0.43,
+            "height": 0.16,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          },
+          {
+            "id": "july-break-photo-label",
+            "label": "汪精卫·照片日期未明",
+            "detail": "",
+            "position": [
+              0.23,
+              0.58
+            ],
+            "width": 0.34,
+            "height": 0.12,
+            "enter": [
+              0,
+              0.12
+            ]
+          }
+        ],
+        "links": [],
+        "images": [
+          {
+            "mediaId": "wang",
+            "x": 0.07,
+            "y": 0.19,
+            "width": 0.32,
+            "height": 0.32,
+            "caption": "",
+            "focusZoom": 1
+          }
+        ],
+        "imageCredit": "依据S06、S05；人物照不作会议现场图。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 28.778888888888886,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 11912,
+      "endFrame": 12790
+    },
+    {
+      "id": "armed-resistance-turn",
+      "nodeId": "armed-turn",
+      "durationFrames": 760,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "失去公开合作的空间之后，共产党开始调整斗争方式。8月1日，南昌起义发动。8月7日，中共中央在汉口召开紧急会议，确立土地革命和武装反抗国民党统治的方针。这与四一二有着历史联系，但并不是十二日当天就自动产生的结果。组织需要重新集结，战略也经历了争论和挫折。",
+      "visual": {
+        "kind": "sequence",
+        "legend": "现代解释图版；按事件顺序展开，非等比例时间线。",
+        "items": [
+          {
+            "id": "armed-resistance-turn-item-0",
+            "label": "8月1日",
+            "detail": "南昌起义",
+            "position": [
+              0.2,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "armed-resistance-turn-item-1",
+            "label": "8月7日",
+            "detail": "土地革命与武装反抗方针",
+            "position": [
+              0.5,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          },
+          {
+            "id": "armed-resistance-turn-item-2",
+            "label": "过程",
+            "detail": "重新集结、争论与挫折",
+            "position": [
+              0.8,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0.26,
+              0.38
+            ]
+          }
+        ],
+        "links": [],
+        "images": [],
+        "imageCredit": "依据已确认解释稿及所列来源；图版文字为现代概括。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 24.911111111111108,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 12790,
+      "endFrame": 13550
+    },
+    {
+      "id": "responsibility-and-response",
+      "nodeId": "assessment",
+      "durationFrames": 745,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "回头看这场危机，行动责任和应对得失，必须分别讨论。发动和执行袭击、缴械、捕杀的人，要为这些行动负责。共产党领导层和共产国际怎样判断风险、为什么仍争取合作、抵抗准备是否充分，则是另一组问题。研究受镇压一方的判断失误，并不会转移实施暴力一方的责任。",
+      "visual": {
+        "kind": "comparison",
+        "legend": "两组问题可以同时研究；解释应对失误不转移实施暴力的责任。",
+        "items": [
+          {
+            "id": "responsibility-and-response-item-0",
+            "label": "行动责任",
+            "detail": "谁发动、谁执行暴力？",
+            "position": [
+              0.2,
+              0.4
+            ],
+            "width": 0.35,
+            "height": 0.26,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "responsibility-and-response-item-1",
+            "label": "应对得失",
+            "detail": "怎样判断与准备抵抗？",
+            "position": [
+              0.8,
+              0.4
+            ],
+            "width": 0.35,
+            "height": 0.26,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          }
+        ],
+        "links": [],
+        "images": [],
+        "imageCredit": "依据已确认解释稿及所列来源；图版文字为现代概括。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 24.41944444444444,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 13550,
+      "endFrame": 14295
+    },
+    {
+      "id": "historical-conclusion",
+      "nodeId": "assessment",
+      "durationFrames": 944,
+      "purpose": "以已确认解释稿中的具体事实与因果展开完整解说。",
+      "narration": "四一二的转折，在于它用暴力改变了上海的政治参与和武装控制。合作中的权力分歧，最终由极不对称的武力来裁决。此后，南京权力中心形成，武汉也在七月走向分共。把这些具体行动连起来，我们才能理解：这场决裂来得剧烈，却不是一天完成；它改变的不只是党派关系，还有普通人能否组织、表达和保护自己的处境。",
+      "visual": {
+        "kind": "sequence",
+        "legend": "现代解释图版；按事件顺序展开，非等比例时间线。",
+        "items": [
+          {
+            "id": "historical-conclusion-item-0",
+            "label": "上海·四月",
+            "detail": "缴械与镇压改变力量对比",
+            "position": [
+              0.2,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0,
+              0.12
+            ]
+          },
+          {
+            "id": "historical-conclusion-item-1",
+            "label": "武汉·七月",
+            "detail": "合作机制全面瓦解",
+            "position": [
+              0.5,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0.13,
+              0.25
+            ]
+          },
+          {
+            "id": "historical-conclusion-item-2",
+            "label": "普通人的处境",
+            "detail": "组织、表达与安全受到打击",
+            "position": [
+              0.8,
+              0.4
+            ],
+            "width": 0.265,
+            "height": 0.26,
+            "enter": [
+              0.26,
+              0.38
+            ]
+          }
+        ],
+        "links": [],
+        "images": [],
+        "imageCredit": "依据已确认解释稿及所列来源；图版文字为现代概括。"
+      },
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        },
+        {
+          "t": 30.94222222222222,
+          "x": 960,
+          "y": 540,
+          "z": 1
+        }
+      ],
+      "startFrame": 14295,
+      "endFrame": 15239
+    }
+  ]
+}

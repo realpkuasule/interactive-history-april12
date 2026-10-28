@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "preset": "china-modern",
+  "catalogSha256": "8b20d595615809ea6bb025c213af4072a87831da4ad39d9d77dab55dd35500d2",
+  "nativeSelectionSha256": "e2c03647c8b292e67a902a1f1022efd947f46050cc5f7e4865b6cf994eb6c1b4",
+  "roles": {
+    "heading": {
+      "id": "zhuque",
+      "native": {
+        "font": {
+          "path": "fonts/558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4.ttf",
+          "sha256": "558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4"
+        },
+        "weight": 400,
+        "style": "normal"
+      },
+      "weight": 400,
+      "style": "normal",
+      "cssFamily": "HistoryHeading0",
+      "faces": [
+        {
+          "id": "zhuque",
+          "family": "Zhuque Fangsong (technical preview)",
+          "postscriptName": "ZhuqueFangsong-Regular",
+          "subfamily": "Regular",
+          "weight": 400,
+          "cssWeight": 400,
+          "style": "normal",
+          "axes": {},
+          "font": {
+            "path": "fonts/558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4.ttf",
+            "sha256": "558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4"
+          },
+          "licenses": [
+            {
+              "path": "licenses/font-558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4-0.txt",
+              "sha256": "66cc01ad4df62fca6936431a426104cb32a52ce8da49de9a7d643e02d7659043",
+              "url": "https://github.com/TrionesType/zhuque/blob/v0.212/LICENSE.txt"
+            },
+            {
+              "path": "licenses/font-558c62730844fe54ba220146ed62f859d4e2880188d92d985f8921c6e3743bc4-1.txt",
+              "sha256": "f46cf892b8b299eb03dce95d15d21fb5e745a58d66a8cf94c92a8509a5c0d5ff",
+              "url": "https://github.com/TrionesType/zhuque/blob/v0.212/README.md"
+            }
+          ],
+          "source": {
+            "url": "https://github.com/TrionesType/zhuque/releases/download/v0.212/ZhuqueFangsong-v0.212.zip",
+            "version": "v0.212 technical preview",
+            "repository": "https://github.com/TrionesType/zhuque"
+          },
+          "cssFamily": "HistoryHeading0"
+        }
+      ]
+    },
+    "body": {
+      "id": "neo-xihei",
+      "native": {
+        "font": {
+          "path": "fonts/893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c.ttf",
+          "sha256": "893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c"
+        },
+        "weight": 400,
+        "style": "normal"
+      },
+      "weight": 400,
+      "style": "normal",
+      "cssFamily": "HistoryBody0",
+      "faces": [
+        {
+          "id": "neo-xihei",
+          "family": "LXGW Neo XiHei",
+          "postscriptName": "LXGWNeoXiHei",
+          "subfamily": "Regular",
+          "weight": 400,
+          "cssWeight": 400,
+          "style": "normal",
+          "axes": {},
+          "font": {
+            "path": "fonts/893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c.ttf",
+            "sha256": "893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c"
+          },
+          "licenses": [
+            {
+              "path": "licenses/font-893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c-0.txt",
+              "sha256": "bce9800ab47cd0961c2a536d5ecfb983442d58eec1db5ff88a5f1a8d1c682367",
+              "url": "https://github.com/lxgw/LxgwNeoXiHei/blob/v1.305/LICENSE.md"
+            },
+            {
+              "path": "licenses/font-893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c-1.txt",
+              "sha256": "0b8c1c52b89a85fed553d3e0c11bee3e9bf82407af3b9034c109ab6aad484b98",
+              "url": "https://github.com/lxgw/LxgwNeoXiHei/blob/v1.305/LICENSE_CHS.md"
+            },
+            {
+              "path": "licenses/font-893cfbec604768f03785ab4f369508de68c274273359a5cadee17e2852975d5c-2.txt",
+              "sha256": "66e6b25df50f87217e4c53417dc511eb9698756e355a3bda8f6a6711f4611f02",
+              "url": "https://github.com/lxgw/LxgwNeoXiHei/blob/v1.305/README.md"
+            }
+          ],
+          "source": {
+            "url": "https://github.com/lxgw/LxgwNeoXiHei/releases/download/v1.305/LXGWNeoXiHei.ttf",
+            "version": "v1.305",
+            "repository": "https://github.com/lxgw/LxgwNeoXiHei"
+          },
+          "cssFamily": "HistoryBody0"
+        }
+      ]
+    }
+  }
+}
